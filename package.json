@@ -1,6 +1,7 @@
 {
   "name": "gre-verbal",
   "private": true,
+  "packageManager": "bun@1.3.11",
   "workspaces": [
     "apps/*",
     "packages/*"
