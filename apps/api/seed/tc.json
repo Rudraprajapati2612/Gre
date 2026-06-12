@@ -1,0 +1,56 @@
+[
+  {
+    "prompt": "Despite her reputation for ___, the professor delivered a surprisingly ___  lecture that kept every student riveted.",
+    "blank_count": 2,
+    "options": [
+      ["verbosity", "brevity", "candor"],
+      ["tedious", "engaging", "superficial"]
+    ],
+    "answers": ["verbosity", "engaging"],
+    "explanation": "The sentence sets up a contrast ('Despite') between her reputation (verbosity = excessive talking) and the actual lecture (engaging = captivating). 'Brevity' would not create a contrast with an engaging lecture; 'tedious' contradicts 'kept every student riveted'.",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "The documentary was praised for its ___ portrayal of the conflict—neither sensationalizing the violence nor ___  the suffering of civilians.",
+    "blank_count": 2,
+    "options": [
+      ["nuanced", "propagandistic", "maudlin"],
+      ["minimizing", "exaggerating", "documenting"]
+    ],
+    "answers": ["nuanced", "minimizing"],
+    "explanation": "A 'nuanced' portrayal is balanced, which pairs with 'neither sensationalizing... nor minimizing.' 'Propagandistic' or 'maudlin' would not be praised; 'exaggerating' would parallel 'sensationalizing' rather than contrast with it.",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "The critic's review was so ___ that it bordered on libel; far from being a measured assessment, it was a ___ attack on the author's character.",
+    "blank_count": 2,
+    "options": [
+      ["laudatory", "scathing", "equivocal"],
+      ["personal", "literary", "judicious"]
+    ],
+    "answers": ["scathing", "personal"],
+    "explanation": "The sentence structure ('far from being a measured assessment') signals that the review was extreme ('scathing'). The phrase 'attack on the author's character' implies a 'personal' attack, not a 'literary' or 'judicious' one.",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "The new theory did not so much ___ the old one as ___  it, preserving its core insights while replacing its most problematic assumptions.",
+    "blank_count": 2,
+    "options": [
+      ["refute", "replace", "complement"],
+      ["reject", "refine", "vindicate"]
+    ],
+    "answers": ["replace", "refine"],
+    "explanation": "The sentence contrasts wholesale replacement ('not so much replace') with a more subtle modification ('refine'—keeping core insights while fixing problems). 'Refute' is too strong; 'complement' does not fit the contrast.",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "The historian argued that the revolution was not a sudden rupture but the ___ of decades of gradual social change.",
+    "blank_count": 1,
+    "options": [
+      ["culmination", "negation", "precursor"]
+    ],
+    "answers": ["culmination"],
+    "explanation": "'Culmination' means the endpoint of a process, which fits 'decades of gradual change' leading to the revolution. 'Negation' contradicts the passage; 'precursor' would mean the revolution came before the changes, reversing the logic.",
+    "difficulty": "easy"
+  }
+]

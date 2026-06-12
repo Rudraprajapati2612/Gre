@@ -1,0 +1,162 @@
+[
+  {
+    "word": "aberrant",
+    "meaning": "departing from an accepted standard; deviating from the norm",
+    "tone": "negative",
+    "example_sentence": "The scientist noted aberrant readings in the experiment that couldn't be explained by the standard model.",
+    "gre_context": "Often used in RC passages about psychology or social norms; paired with 'behavior' or 'results'.",
+    "cluster": "deviation"
+  },
+  {
+    "word": "abeyance",
+    "meaning": "a state of temporary suspension or inactivity",
+    "tone": "neutral",
+    "example_sentence": "The lawsuit was held in abeyance while both parties negotiated a settlement.",
+    "gre_context": "Appears in legal or bureaucratic contexts; contrasted with 'active' or 'enforced'.",
+    "cluster": "pause"
+  },
+  {
+    "word": "acrimony",
+    "meaning": "bitterness or ill feeling, especially in speech or manner",
+    "tone": "negative",
+    "example_sentence": "The divorce proceedings were marked by acrimony that spilled into every public interaction.",
+    "gre_context": "Tests tone; answer choices often contrast with 'civility' or 'equanimity'.",
+    "cluster": "hostility"
+  },
+  {
+    "word": "adumbrate",
+    "meaning": "to outline or sketch in a shadowy way; to foreshadow",
+    "tone": "neutral",
+    "example_sentence": "The opening paragraph adumbrated the themes that would dominate the novel.",
+    "gre_context": "High-frequency GRE word; used in RC passage analysis questions.",
+    "cluster": null
+  },
+  {
+    "word": "ameliorate",
+    "meaning": "to make something bad or unsatisfactory better; to improve",
+    "tone": "positive",
+    "example_sentence": "The new policy was designed to ameliorate the living conditions of low-income families.",
+    "gre_context": "TC/SE staple; often paired with 'worsen' (antonym) in blank options.",
+    "cluster": "improve"
+  },
+  {
+    "word": "anachronistic",
+    "meaning": "belonging to a period other than that being portrayed; outdated",
+    "tone": "negative",
+    "example_sentence": "The film's use of smartphones in a Victorian setting felt anachronistic.",
+    "gre_context": "RC passages on history or literature frequently use this word.",
+    "cluster": "outdated"
+  },
+  {
+    "word": "anodyne",
+    "meaning": "not likely to cause offence or disagreement; deliberately bland or innocuous",
+    "tone": "neutral",
+    "example_sentence": "The politician's anodyne speech pleased nobody and offended nobody.",
+    "gre_context": "TC blank: context describes a mild, inoffensive response; contrast with 'provocative'.",
+    "cluster": "mild"
+  },
+  {
+    "word": "antipathy",
+    "meaning": "a deep-seated feeling of dislike; aversion",
+    "tone": "negative",
+    "example_sentence": "Her antipathy toward competitive sports began in a humiliating gym class.",
+    "gre_context": "Frequently paired with 'affinity' (antonym) in SE blanks.",
+    "cluster": "hostility"
+  },
+  {
+    "word": "apocryphal",
+    "meaning": "of doubtful authenticity, although widely circulated as being true",
+    "tone": "negative",
+    "example_sentence": "The story of Newton and the apple may be apocryphal, but it endures as a metaphor.",
+    "gre_context": "RC detail questions: 'The author implies the story is ___.'",
+    "cluster": "dubious"
+  },
+  {
+    "word": "approbation",
+    "meaning": "approval or praise",
+    "tone": "positive",
+    "example_sentence": "The committee gave its approbation to the new zoning plan.",
+    "gre_context": "Antonym of 'censure'; common in TC where blank requires positive reaction.",
+    "cluster": "approval"
+  },
+  {
+    "word": "arduous",
+    "meaning": "involving or requiring strenuous effort; difficult and tiring",
+    "tone": "negative",
+    "example_sentence": "The arduous trek to the summit took three days and left the climbers exhausted.",
+    "gre_context": "Straightforward difficulty word; SE paired with 'effortless' or 'facile'.",
+    "cluster": "difficult"
+  },
+  {
+    "word": "asperity",
+    "meaning": "harshness of tone or manner",
+    "tone": "negative",
+    "example_sentence": "She responded with asperity, making it clear she did not appreciate the interruption.",
+    "gre_context": "Tone-related blank; contrast with 'warmth' or 'gentleness'.",
+    "cluster": "hostility"
+  },
+  {
+    "word": "assiduous",
+    "meaning": "showing great care, attention, and effort",
+    "tone": "positive",
+    "example_sentence": "The assiduous student reviewed her notes every evening without fail.",
+    "gre_context": "Paired with 'diligent' in SE; contrasted with 'negligent' or 'desultory'.",
+    "cluster": "hardworking"
+  },
+  {
+    "word": "attenuate",
+    "meaning": "to reduce the force, effect, or value of something; to weaken",
+    "tone": "negative",
+    "example_sentence": "Noise-cancelling headphones attenuate ambient sound so effectively that users feel isolated.",
+    "gre_context": "Science RC passages use this; TC blank: something reduces a reaction or signal.",
+    "cluster": "weaken"
+  },
+  {
+    "word": "audacious",
+    "meaning": "showing a willingness to take surprisingly bold risks; daring",
+    "tone": "positive",
+    "example_sentence": "The audacious plan involved tunneling under the Berlin Wall.",
+    "gre_context": "Can be positive or negative depending on context; watch for 'reckless' overlap.",
+    "cluster": "bold"
+  },
+  {
+    "word": "auspicious",
+    "meaning": "giving or suggesting a sign of future success; favourable",
+    "tone": "positive",
+    "example_sentence": "An auspicious start to the season gave fans hope for a championship.",
+    "gre_context": "Antonym is 'inauspicious'; common in TC describing promising beginnings.",
+    "cluster": "favorable"
+  },
+  {
+    "word": "aver",
+    "meaning": "to state or assert as a fact",
+    "tone": "neutral",
+    "example_sentence": "The defendant averred that he had never met the plaintiff.",
+    "gre_context": "Legal/formal tone; TC/SE synonym of 'assert', 'affirm', 'avow'.",
+    "cluster": "assert"
+  },
+  {
+    "word": "baleful",
+    "meaning": "threatening harm; menacing",
+    "tone": "negative",
+    "example_sentence": "The baleful glare of the guard silenced the prisoner immediately.",
+    "gre_context": "Tone word; distinguish from 'baneful' (harmful) and 'doleful' (sorrowful).",
+    "cluster": "threatening"
+  },
+  {
+    "word": "belie",
+    "meaning": "to fail to give a true notion of; to contradict",
+    "tone": "neutral",
+    "example_sentence": "Her cheerful smile belied the anxiety she felt inside.",
+    "gre_context": "Extremely common GRE word in RC; structure: 'X belies Y' means X contradicts what Y suggests.",
+    "cluster": null
+  },
+  {
+    "word": "bombastic",
+    "meaning": "high-sounding language with little meaning; inflated in style",
+    "tone": "negative",
+    "example_sentence": "The senator's bombastic speech impressed his base but alienated moderates.",
+    "gre_context": "TC blank: describes a speech that sounds impressive but lacks substance.",
+    "cluster": "arrogant"
+  }
+]

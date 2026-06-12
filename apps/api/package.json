@@ -1,0 +1,26 @@
+{
+  "name": "@gre/api",
+  "module": "src/index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "bun --hot src/index.ts",
+    "start": "bun src/index.ts",
+    "seed": "bun seed/seed.ts",
+    "test": "bun test"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^3.0.0",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@elysiajs/cors": "^1.4.2",
+    "@elysiajs/jwt": "^1.4.2",
+    "bcryptjs": "^3.0.3",
+    "elysia": "^1.4.28",
+    "postgres": "^3.4.9"
+  }
+}

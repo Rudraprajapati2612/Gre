@@ -1,0 +1,88 @@
+[
+  {
+    "title": "The Revisionist History of Punctuation",
+    "body": "Punctuation, far from being the stable, rule-governed system that grammar handbooks imply, has a remarkably turbulent history. In medieval manuscripts, scribes employed marks not to reflect syntactic boundaries but to guide oral performance—indicating where a reader should pause for breath or modulate the voice. The comma, for instance, originally denoted a short pause in speech, the semicolon a slightly longer one, and the period a full stop before the breath ran out. These were rhetorical tools, not grammatical ones.\n\nThe invention of movable type in the fifteenth century forced a reckoning with these ad-hoc conventions. Printers needed consistency across runs; a mark that one scribe placed intuitively had to be placed systematically by typesetters who might not understand the text they were setting. The result was a gradual migration of punctuation from the domain of rhetoric toward the domain of grammar. By the seventeenth century, authorities were writing treatises that presented punctuation as a logical system for parsing sentences—though even these treatises disagreed profoundly on the rules.\n\nModern punctuation disputes—the Oxford comma, the use of semicolons in informal writing—are thus not signs of decay but echoes of a debate that has never been fully resolved. The handbook consensus is more recent, and more fragile, than most readers suppose.",
+    "subject": "humanities",
+    "paragraph_count": 3,
+    "questions": [
+      {
+        "question": "The primary purpose of the passage is to",
+        "question_type": "main_idea",
+        "options": [
+          "argue that modern punctuation conventions are superior to medieval ones",
+          "trace how punctuation shifted from a rhetorical to a grammatical function",
+          "explain why printers in the fifteenth century invented new punctuation marks",
+          "demonstrate that grammar handbooks are unreliable guides to punctuation",
+          "compare medieval oral reading practices with contemporary silent reading"
+        ],
+        "answer_index": 1,
+        "explanation": "The passage traces a historical arc from oral/rhetorical marks to grammatical conventions. It does not argue modern conventions are superior (A), credit printers with inventing marks (C), broadly dismiss handbooks (D), or focus on oral vs. silent reading (E).",
+        "trap_types": ["distortion", "too_extreme", "distortion", "too_extreme", "out_of_scope"]
+      },
+      {
+        "question": "According to the passage, what was the main effect of movable type on punctuation?",
+        "question_type": "detail",
+        "options": [
+          "It caused punctuation to become more ornate and diverse",
+          "It replaced the period with the comma as the dominant mark",
+          "It drove a shift toward systematic, grammar-based conventions",
+          "It eliminated the influence of oral performance on written texts",
+          "It created widespread agreement among authorities on punctuation rules"
+        ],
+        "answer_index": 2,
+        "explanation": "The passage states that printers' need for consistency caused punctuation to migrate 'from the domain of rhetoric toward the domain of grammar.' The other options are either unsupported or contradict the text (E directly contradicts 'even these treatises disagreed profoundly').",
+        "trap_types": ["out_of_scope", "distortion", null, "too_extreme", "contradiction"]
+      },
+      {
+        "question": "The author's attitude toward modern punctuation disputes can best be described as",
+        "question_type": "tone",
+        "options": [
+          "dismissive, as he views them as trivial compared to historical debates",
+          "alarmed, because they signal the breakdown of grammatical standards",
+          "contextualized, placing them within a long-running unresolved debate",
+          "optimistic, believing they will eventually be settled by handbook authorities",
+          "ambivalent, since he both endorses and criticizes the Oxford comma"
+        ],
+        "answer_index": 2,
+        "explanation": "The final paragraph frames disputes as 'echoes of a debate that has never been fully resolved'—a contextualizing, not a dismissive or alarmed stance. The passage does not take a position on the Oxford comma specifically.",
+        "trap_types": ["distortion", "distortion", null, "distortion", "out_of_scope"]
+      }
+    ]
+  },
+  {
+    "title": "Collective Action and Environmental Goods",
+    "body": "Economists classify clean air and stable climate as 'public goods': non-excludable (no one can be fenced out from breathing clean air) and non-rivalrous (one person's use does not diminish another's). This classification illuminates a characteristic problem. Because no individual can be excluded from benefiting, rational actors have an incentive to 'free-ride'—to enjoy the good without contributing to its provision. If enough actors free-ride, the good is underprovided relative to the socially optimal level.\n\nThis logic has been invoked to explain why voluntary agreements to reduce pollution so often fail: each party hopes others will bear the cost of reduction while it enjoys the cleaner air. The conclusion drawn by many economists is that public goods require coercive mechanisms—taxes, regulations, tradeable permits—to overcome the free-rider problem.\n\nCritiques of this framework have emerged from several directions. Elinor Ostrom's fieldwork documented numerous cases in which communities self-organized to manage shared resources without either privatization or government mandate. Her key finding was that the standard model omits the role of social norms, trust, and repeated interaction in sustaining cooperation. Where actors know each other, expect to interact in the future, and can monitor and sanction defectors, voluntary cooperation often proves surprisingly durable.",
+    "subject": "social_science",
+    "paragraph_count": 3,
+    "questions": [
+      {
+        "question": "Which of the following best describes the relationship between the second and third paragraphs?",
+        "question_type": "main_idea",
+        "options": [
+          "The second paragraph presents a problem and the third offers a partial solution",
+          "The second paragraph introduces a theory and the third refutes it entirely",
+          "The second paragraph summarizes empirical data and the third provides a theoretical explanation",
+          "The second paragraph describes a policy success and the third qualifies that success",
+          "The second paragraph and third paragraph present opposing economic schools of thought"
+        ],
+        "answer_index": 0,
+        "explanation": "The second paragraph applies the free-rider logic to explain policy failure (a problem) and recommends coercive mechanisms. The third introduces Ostrom's critique showing voluntary cooperation can work—a partial corrective, not a full refutation (the standard model is 'omitted' factors, not wrong entirely).",
+        "trap_types": ["distortion", "too_extreme", "distortion", "distortion", "distortion"]
+      },
+      {
+        "question": "The author mentions Ostrom's fieldwork primarily in order to",
+        "question_type": "inference",
+        "options": [
+          "demonstrate that privatization is the best solution to the free-rider problem",
+          "show that public goods theory is irrelevant to environmental policy",
+          "illustrate that the standard economic model overlooks factors that enable cooperation",
+          "argue that government regulation is unnecessary in all environmental contexts",
+          "provide an example of how non-rivalrous goods can become rivalrous over time"
+        ],
+        "answer_index": 2,
+        "explanation": "The passage states Ostrom's key finding was that 'the standard model omits the role of social norms, trust, and repeated interaction.' The fieldwork supports a critique of the model's completeness, not an endorsement of privatization (A), a rejection of public goods theory (B), a universal anti-regulation argument (D), or a claim about rivalry (E).",
+        "trap_types": ["distortion", "too_extreme", null, "too_extreme", "out_of_scope"]
+      }
+    ]
+  }
+]

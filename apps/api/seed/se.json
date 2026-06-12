@@ -1,0 +1,37 @@
+[
+  {
+    "prompt": "The professor's lectures were so ___ that students often left the hall more confused than when they entered.",
+    "options": ["lucid", "abstruse", "recondite", "pellucid", "engaging", "vivid"],
+    "answers": ["abstruse", "recondite"],
+    "explanation": "'Abstruse' and 'recondite' both mean difficult to understand, which is why students leave confused. 'Lucid' and 'pellucid' mean clear (opposite meaning); 'engaging' and 'vivid' don't explain the confusion.",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "The diplomat's tone was deliberately ___ so as not to antagonize either side in the negotiation.",
+    "options": ["inflammatory", "conciliatory", "placatory", "belligerent", "assertive", "divisive"],
+    "answers": ["conciliatory", "placatory"],
+    "explanation": "'Conciliatory' and 'placatory' both mean intended to reduce hostility, which fits 'not antagonize either side.' The other options either increase hostility (inflammatory, belligerent, divisive) or are neutral (assertive).",
+    "difficulty": "easy"
+  },
+  {
+    "prompt": "Critics dismissed the memoir as ___, noting that it presented a self-serving version of events that contradicted documented facts.",
+    "options": ["candid", "fabricated", "disingenuous", "forthright", "hagiographic", "tendentious"],
+    "answers": ["disingenuous", "tendentious"],
+    "explanation": "'Disingenuous' (not straightforward) and 'tendentious' (promoting a particular cause) both fit a self-serving, factually questionable memoir. 'Fabricated' is too extreme; 'candid' and 'forthright' mean the opposite; 'hagiographic' specifically means overly flattering biography.",
+    "difficulty": "hard"
+  },
+  {
+    "prompt": "The scientist was known for her ___ approach to research: she followed the data wherever it led, regardless of how it challenged prevailing theories.",
+    "options": ["iconoclastic", "orthodox", "dispassionate", "doctrinaire", "impartial", "conventional"],
+    "answers": ["dispassionate", "impartial"],
+    "explanation": "'Dispassionate' and 'impartial' both describe objectivity—following evidence without bias. 'Iconoclastic' means challenging norms (close, but overly strong); 'orthodox' and 'conventional' suggest following tradition; 'doctrinaire' suggests rigidly following a doctrine.",
+    "difficulty": "medium"
+  },
+  {
+    "prompt": "Although initially ___ about the proposal, the board members eventually came around after reviewing the financial projections.",
+    "options": ["enthusiastic", "skeptical", "dubious", "indifferent", "supportive", "bullish"],
+    "answers": ["skeptical", "dubious"],
+    "explanation": "'Skeptical' and 'dubious' both mean doubtful, which fits the contrast with 'eventually came around.' The other options either indicate positive attitude (enthusiastic, supportive, bullish) or neutral attitude (indifferent).",
+    "difficulty": "easy"
+  }
+]

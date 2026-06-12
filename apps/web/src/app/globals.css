@@ -1,0 +1,54 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-surface-muted: var(--surface-muted);
+  --color-border: var(--border);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-brand: var(--brand);
+  --color-brand-strong: var(--brand-strong);
+  --color-brand-wash: var(--brand-wash);
+  --color-amber: var(--amber);
+  --color-amber-wash: var(--amber-wash);
+  --color-success: var(--success);
+  --color-success-wash: var(--success-wash);
+  --color-danger: var(--danger);
+  --color-danger-wash: var(--danger-wash);
+
+  --font-sans: var(--font-inter), sans-serif;
+  --font-display: var(--font-fraunces), serif;
+  --font-mono: var(--font-mono), monospace;
+}
+
+:root {
+  --bg: #FBFCFC;
+  --surface: #FFFFFF;
+  --surface-muted: #F2F5F5;
+  --border: #E2E8E8;
+  --ink: #16201F;
+  --ink-soft: #5B6B69;
+  --brand: #0E7C7B;
+  --brand-strong: #0A5F5E;
+  --brand-wash: #E4F1F0;
+  --amber: #E8943A;
+  --amber-wash: #FBEEDD;
+  --success: #2F8F5B;
+  --success-wash: #E3F2E9;
+  --danger: #C8553D;
+  --danger-wash: #F7E4DF;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@layer utilities {
+  .safe-bottom {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+}
