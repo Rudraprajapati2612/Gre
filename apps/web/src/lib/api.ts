@@ -1,7 +1,7 @@
 import type {
   AuthResponse, User, Word, UserWordProgress, TCQuestion, SEQuestion,
   RCPassage, RCPassageDetail, ProgressSummary, WeakWord, ScorePoint,
-  SubmitTCResult, SubmitSEResult, SubmitRCResult,
+  SubmitTCResult, SubmitSEResult, SubmitRCResult, MountainGroup,
 } from './types'
 
 const API_BASE = process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:3001'
@@ -226,6 +226,50 @@ export async function apiScores(params?: { section?: string; from?: string; to?:
 export async function apiByType() {
   const res = await apiFetch('/api/progress/by-type')
   return json<any>(res)
+}
+
+// ─── Mountain ─────────────────────────────────────────────────────────────
+
+export async function apiMountainGroups() {
+  const res = await apiFetch('/api/mountain/groups')
+  return json<{ groups: MountainGroup[] }>(res)
+}
+
+export async function apiMountainGroup(
+  n: number,
+  params?: { filter?: 'all' | 'forgotten' | 'unseen'; order?: 'default' | 'shuffle' },
+) {
+  const qs = new URLSearchParams()
+  if (params?.filter) qs.set('filter', params.filter)
+  if (params?.order)  qs.set('order', params.order)
+  const res = await apiFetch(`/api/mountain/groups/${n}?${qs}`)
+  return json<{ group: number; words: Word[] }>(res)
+}
+
+export async function apiMountainMark(wordId: string, mark: 'knew' | 'forgot') {
+  const res = await apiFetch('/api/mountain/mark', {
+    method: 'POST',
+    body: JSON.stringify({ wordId, mark }),
+  })
+  return json<{ progress: UserWordProgress }>(res)
+}
+
+export async function apiMountainStartGroup(n: number) {
+  const res = await apiFetch(`/api/mountain/groups/${n}/start`, { method: 'POST' })
+  return json<{ started: number; group: number }>(res)
+}
+
+export async function apiMountainResetGroup(n: number) {
+  const res = await apiFetch(`/api/mountain/groups/${n}/reset`, { method: 'POST' })
+  return json<{ ok: boolean; group: number }>(res)
+}
+
+export async function apiMountainNote(wordId: string, note: string) {
+  const res = await apiFetch('/api/mountain/note', {
+    method: 'PATCH',
+    body: JSON.stringify({ wordId, note }),
+  })
+  return json<{ progress: UserWordProgress }>(res)
 }
 
 // ─── Admin ────────────────────────────────────────────────────────────────

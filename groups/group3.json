@@ -1,0 +1,377 @@
+{
+  "groups": [
+    {
+      "groupNumber": 3,
+      "words": [
+        {
+          "word": "Circuitous",
+          "meaning": "Not straight or direct; roundabout",
+          "easyMeaning": "Taking a long indirect route",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Indirect",
+            "Roundabout",
+            "Meandering"
+          ],
+          "antonyms": [
+            "Direct",
+            "Straight",
+            "Succinct"
+          ],
+          "gregmatSentence": "We took a circuitous route to school and missed the class.",
+          "personalSentence": "",
+          "memoryTrick": "Circuitous = like a circuit going around",
+          "mastery": 0,
+          "group": 3
+        },
+        {
+          "word": "Circumspect",
+          "meaning": "Careful not to take risks",
+          "easyMeaning": "Careful and cautious",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Cautious",
+            "Prudent",
+            "Wary"
+          ],
+          "antonyms": [
+            "Reckless",
+            "Rash",
+            "Careless"
+          ],
+          "gregmatSentence": "She is very circumspect in dealing with strangers.",
+          "personalSentence": "",
+          "memoryTrick": "Circumspect = inspect all around",
+          "mastery": 0,
+          "group": 3
+        },
+        {
+          "word": "Circumvent",
+          "meaning": "To avoid or get around by cleverness or deception",
+          "easyMeaning": "To find a way around a rule or problem",
+          "tone": "Context-Dependent",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Bypass",
+            "Evade",
+            "Avoid"
+          ],
+          "antonyms": [
+            "Confront",
+            "Obey",
+            "Face"
+          ],
+          "gregmatSentence": "Ships were registered abroad to circumvent the heavy local taxes.",
+          "personalSentence": "",
+          "memoryTrick": "Circumvent = go around the vent",
+          "mastery": 0,
+          "group": 3
+        },
+        {
+          "word": "Clandestine",
+          "meaning": "Kept secret or done secretly, often because illegal or immoral",
+          "easyMeaning": "Secret and hidden",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Secret",
+            "Covert",
+            "Surreptitious"
+          ],
+          "antonyms": [
+            "Open",
+            "Public",
+            "Overt"
+          ],
+          "gregmatSentence": "Some of the prison inmates have developed clandestine procedures for selling drugs.",
+          "personalSentence": "",
+          "memoryTrick": "Clandestine = clan hidden underground",
+          "mastery": 0,
+          "group": 3
+        },
+        {
+          "word": "Compelling",
+          "meaning": "Very exciting, interesting, or persuasive",
+          "easyMeaning": "So interesting or convincing that you pay attention",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Persuasive",
+            "Engrossing",
+            "Convincing"
+          ],
+          "antonyms": [
+            "Unconvincing",
+            "Boring",
+            "Weak"
+          ],
+          "gregmatSentence": "The novel was so compelling that I couldn't put it down.",
+          "personalSentence": "",
+          "memoryTrick": "Compelling = compels you to listen",
+          "mastery": 0,
+          "group": 3
+        },
+        {
+          "word": "Conciliatory",
+          "meaning": "Intended to calm anger and repair disagreement",
+          "easyMeaning": "Trying to make peace",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Placating",
+            "Peaceful",
+            "Appeasing"
+          ],
+          "antonyms": [
+            "Hostile",
+            "Antagonistic",
+            "Provocative"
+          ],
+          "gregmatSentence": "The mediator made a conciliatory statement that helped the two parties find common ground.",
+          "personalSentence": "",
+          "memoryTrick": "Conciliatory = cancel conflict",
+          "mastery": 0,
+          "group": 3
+        },
+        {
+          "word": "Confound",
+          "meaning": "To confuse by being difficult to explain or deal with",
+          "easyMeaning": "To puzzle or confuse",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Confuse",
+            "Baffle",
+            "Perplex"
+          ],
+          "antonyms": [
+            "Clarify",
+            "Explain",
+            "Elucidate"
+          ],
+          "gregmatSentence": "The complex puzzle will confound even the most intelligent person.",
+          "personalSentence": "",
+          "memoryTrick": "Confound = confuse found",
+          "mastery": 0,
+          "group": 3
+        },
+        {
+          "word": "Conscientious",
+          "meaning": "Feeling a moral responsibility to work carefully and fairly",
+          "easyMeaning": "Careful because you want to do the right thing",
+          "tone": "Positive",
+          "sentimentScore": 5,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Diligent",
+            "Careful",
+            "Scrupulous"
+          ],
+          "antonyms": [
+            "Careless",
+            "Negligent",
+            "Irresponsible"
+          ],
+          "gregmatSentence": "Matt is a conscientious teacher, helping each and every student in the class with English grammar.",
+          "personalSentence": "",
+          "memoryTrick": "Conscientious = conscience makes you careful",
+          "mastery": 0,
+          "group": 3
+        },
+        {
+          "word": "Consensus",
+          "meaning": "A generally accepted opinion or group agreement",
+          "easyMeaning": "General agreement",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Agreement",
+            "Concord",
+            "Unanimity"
+          ],
+          "antonyms": [
+            "Disagreement",
+            "Dissent",
+            "Conflict"
+          ],
+          "gregmatSentence": "The jury finally reached a consensus and found the defendant innocent.",
+          "personalSentence": "",
+          "memoryTrick": "Consensus = senses come together",
+          "mastery": 0,
+          "group": 3
+        },
+        {
+          "word": "Consequential",
+          "meaning": "Important or significant because of results",
+          "easyMeaning": "Important because it has effects",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Important",
+            "Significant",
+            "Momentous"
+          ],
+          "antonyms": [
+            "Trivial",
+            "Inconsequential",
+            "Minor"
+          ],
+          "gregmatSentence": "He made a consequential decision to take the job and ended up having a great time.",
+          "personalSentence": "",
+          "memoryTrick": "Consequential = has consequences",
+          "mastery": 0,
+          "group": 3
+        },
+        {
+          "word": "Conspicuous",
+          "meaning": "Clearly visible or obvious",
+          "easyMeaning": "Easy to notice",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Obvious",
+            "Prominent",
+            "Noticeable"
+          ],
+          "antonyms": [
+            "Hidden",
+            "Inconspicuous",
+            "Subtle"
+          ],
+          "gregmatSentence": "He had a conspicuous scar right across his face.",
+          "personalSentence": "",
+          "memoryTrick": "Conspicuous = can spot it",
+          "mastery": 0,
+          "group": 3
+        },
+        {
+          "word": "Convoluted",
+          "meaning": "Twisted, complicated, or difficult to follow",
+          "easyMeaning": "Very complicated and twisty",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Complicated",
+            "Twisted",
+            "Labyrinthine"
+          ],
+          "antonyms": [
+            "Simple",
+            "Straightforward",
+            "Clear"
+          ],
+          "gregmatSentence": "I tried to follow the convoluted instructions but kept getting lost.",
+          "personalSentence": "",
+          "memoryTrick": "Convoluted = curves that confuse",
+          "mastery": 0,
+          "group": 3
+        },
+        {
+          "word": "Corroborate",
+          "meaning": "To confirm, verify, or support with evidence",
+          "easyMeaning": "To back up a story with proof",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Confirm",
+            "Verify",
+            "Substantiate"
+          ],
+          "antonyms": [
+            "Refute",
+            "Contradict",
+            "Disprove"
+          ],
+          "gregmatSentence": "Meredith still agreed to corroborate his story in court.",
+          "personalSentence": "",
+          "memoryTrick": "Corroborate = co-robbers back the story",
+          "mastery": 0,
+          "group": 3
+        },
+        {
+          "word": "Coy",
+          "meaning": "Shy or sweetly innocent, often to get attention",
+          "easyMeaning": "Pretending to be shy or innocent",
+          "tone": "Mixed",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "Medium",
+          "synonyms": [
+            "Bashful",
+            "Demure",
+            "Coquettish"
+          ],
+          "antonyms": [
+            "Bold",
+            "Direct",
+            "Forthright"
+          ],
+          "gregmatSentence": "The boy batted his eyes in a coy manner as if he was trying to get the attention of his mom.",
+          "personalSentence": "",
+          "memoryTrick": "Coy = shy toy smile",
+          "mastery": 0,
+          "group": 3
+        },
+        {
+          "word": "Cumulative",
+          "meaning": "Increasing or growing through additions over time",
+          "easyMeaning": "Adding up over time",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Accumulated",
+            "Aggregate",
+            "Increasing"
+          ],
+          "antonyms": [
+            "Separate",
+            "Individual",
+            "Diminishing"
+          ],
+          "gregmatSentence": "The cumulative hours of practice finally paid off in his brilliant performance.",
+          "personalSentence": "",
+          "memoryTrick": "Cumulative = cubes piling up",
+          "mastery": 0,
+          "group": 3
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "totalWords": 15,
+    "totalGroups": 1,
+    "positiveWords": 6,
+    "negativeWords": 3,
+    "neutralWords": 4,
+    "mixedWords": 2
+  }
+}

@@ -1,6 +1,20 @@
+// PostgreSQL rejects deprecated IANA aliases — map them to canonical names.
+const TZ_ALIASES: Record<string, string> = {
+  'Asia/Calcutta':   'Asia/Kolkata',
+  'Asia/Ulaanbaatar':'Asia/Ulaanbaatar',
+  'America/Godthab': 'America/Nuuk',
+  'Asia/Katmandu':   'Asia/Kathmandu',
+  'Asia/Saigon':     'Asia/Ho_Chi_Minh',
+  'Pacific/Truk':    'Pacific/Chuuk',
+}
+
+export function normalizeTimezone(tz: string): string {
+  return TZ_ALIASES[tz] ?? tz
+}
+
 /** Returns the user's local date as a YYYY-MM-DD string. */
 export function userLocalToday(timezone: string): string {
-  return new Date().toLocaleDateString('sv-SE', { timeZone: timezone })
+  return new Date().toLocaleDateString('sv-SE', { timeZone: normalizeTimezone(timezone) })
 }
 
 /**

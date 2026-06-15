@@ -1,0 +1,377 @@
+{
+  "groups": [
+    {
+      "groupNumber": 16,
+      "words": [
+        {
+          "word": "Trifling",
+          "meaning": "Not worth considering; small or unimportant",
+          "easyMeaning": "Too small to matter",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Trivial",
+            "Minor",
+            "Insignificant"
+          ],
+          "antonyms": [
+            "Important",
+            "Serious",
+            "Significant"
+          ],
+          "gregmatSentence": "I made what I thought was a trifling remark but she got very upset by it.",
+          "personalSentence": "",
+          "memoryTrick": "Trifling = tiny trifle",
+          "mastery": 0,
+          "group": 16
+        },
+        {
+          "word": "Trivial",
+          "meaning": "Not important or worth considering",
+          "easyMeaning": "Not important",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Easy",
+          "greFrequency": "High",
+          "synonyms": [
+            "Minor",
+            "Unimportant",
+            "Inconsequential"
+          ],
+          "antonyms": [
+            "Important",
+            "Major",
+            "Significant"
+          ],
+          "gregmatSentence": "It was utterly ridiculous to cry about something so trivial.",
+          "personalSentence": "",
+          "memoryTrick": "Trivial = tiny issue",
+          "mastery": 0,
+          "group": 16
+        },
+        {
+          "word": "Turbulent",
+          "meaning": "Not stable or calm; moving unsteadily",
+          "easyMeaning": "Chaotic or stormy",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Stormy",
+            "Chaotic",
+            "Unstable"
+          ],
+          "antonyms": [
+            "Calm",
+            "Stable",
+            "Peaceful"
+          ],
+          "gregmatSentence": "They had a turbulent relationship with many arguments but they loved each other dearly underneath it all.",
+          "personalSentence": "",
+          "memoryTrick": "Turbulent = trouble in turbulence",
+          "mastery": 0,
+          "group": 16
+        },
+        {
+          "word": "Unassailable",
+          "meaning": "Unable to be attacked, questioned, or defeated",
+          "easyMeaning": "So strong it cannot be challenged",
+          "tone": "Positive",
+          "sentimentScore": 5,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Invulnerable",
+            "Indisputable",
+            "Impregnable"
+          ],
+          "antonyms": [
+            "Vulnerable",
+            "Questionable",
+            "Assailable"
+          ],
+          "gregmatSentence": "His arguments were unassailable and everybody agreed with his plan of action.",
+          "personalSentence": "",
+          "memoryTrick": "Unassailable = cannot be assaulted",
+          "mastery": 0,
+          "group": 16
+        },
+        {
+          "word": "Undermine",
+          "meaning": "To weaken or lessen the effectiveness of something",
+          "easyMeaning": "To secretly weaken",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Weaken",
+            "Sabotage",
+            "Erode"
+          ],
+          "antonyms": [
+            "Strengthen",
+            "Bolster",
+            "Support"
+          ],
+          "gregmatSentence": "Every time I try to offer a solution, my coworker undermines my efforts.",
+          "personalSentence": "",
+          "memoryTrick": "Undermine = dig under the foundation",
+          "mastery": 0,
+          "group": 16
+        },
+        {
+          "word": "Unfathomable",
+          "meaning": "Impossible to understand",
+          "easyMeaning": "Too deep or confusing to understand",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Incomprehensible",
+            "Inscrutable",
+            "Mysterious"
+          ],
+          "antonyms": [
+            "Understandable",
+            "Clear",
+            "Obvious"
+          ],
+          "gregmatSentence": "It is unfathomable to me that you would vote for such an unstable person.",
+          "personalSentence": "",
+          "memoryTrick": "Unfathomable = cannot measure the depth",
+          "mastery": 0,
+          "group": 16
+        },
+        {
+          "word": "Untenable",
+          "meaning": "Incapable of being defended or justified",
+          "easyMeaning": "Impossible to defend",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Indefensible",
+            "Unsustainable",
+            "Weak"
+          ],
+          "antonyms": [
+            "Defensible",
+            "Tenable",
+            "Justified"
+          ],
+          "gregmatSentence": "His position was untenable and he was forced to quit.",
+          "personalSentence": "",
+          "memoryTrick": "Untenable = cannot be held",
+          "mastery": 0,
+          "group": 16
+        },
+        {
+          "word": "Unwarranted",
+          "meaning": "Incapable of being justified or explained",
+          "easyMeaning": "Not justified",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Unjustified",
+            "Groundless",
+            "Baseless"
+          ],
+          "antonyms": [
+            "Justified",
+            "Warranted",
+            "Reasonable"
+          ],
+          "gregmatSentence": "People thought my optimism was unwarranted, but everything worked out great.",
+          "personalSentence": "",
+          "memoryTrick": "Unwarranted = no warrant for it",
+          "mastery": 0,
+          "group": 16
+        },
+        {
+          "word": "Vacillation",
+          "meaning": "Inability to decide between options; going back and forth",
+          "easyMeaning": "Constant indecision",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Indecision",
+            "Hesitation",
+            "Wavering"
+          ],
+          "antonyms": [
+            "Decision",
+            "Resolution",
+            "Certainty"
+          ],
+          "gregmatSentence": "My vacillation over which offer to accept frustrated my wife.",
+          "personalSentence": "",
+          "memoryTrick": "Vacillation = oscillation between choices",
+          "mastery": 0,
+          "group": 16
+        },
+        {
+          "word": "Vacuous",
+          "meaning": "Showing lack of thought or intelligence; mindless",
+          "easyMeaning": "Empty-headed",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Empty",
+            "Mindless",
+            "Inane"
+          ],
+          "antonyms": [
+            "Thoughtful",
+            "Intelligent",
+            "Substantive"
+          ],
+          "gregmatSentence": "I found her book utterly vacuous and could barely get through the first chapter.",
+          "personalSentence": "",
+          "memoryTrick": "Vacuous = vacuum empty",
+          "mastery": 0,
+          "group": 16
+        },
+        {
+          "word": "Vantage",
+          "meaning": "A place or position giving a good view",
+          "easyMeaning": "A viewpoint or advantage point",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "Medium",
+          "synonyms": [
+            "Viewpoint",
+            "Position",
+            "Perspective"
+          ],
+          "antonyms": [
+            "Blind spot",
+            "Disadvantage",
+            "Obstruction"
+          ],
+          "gregmatSentence": "From this vantage, things look very positive.",
+          "personalSentence": "",
+          "memoryTrick": "Vantage = advantage viewpoint",
+          "mastery": 0,
+          "group": 16
+        },
+        {
+          "word": "Verisimilitude",
+          "meaning": "The quality of seeming true or real",
+          "easyMeaning": "Realistic appearance",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Realism",
+            "Plausibility",
+            "Authenticity"
+          ],
+          "antonyms": [
+            "Falseness",
+            "Artificiality",
+            "Unreality"
+          ],
+          "gregmatSentence": "The verisimilitude of the movie set to an old western town is amazing.",
+          "personalSentence": "",
+          "memoryTrick": "Verisimilitude = very similar to truth",
+          "mastery": 0,
+          "group": 16
+        },
+        {
+          "word": "Versatile",
+          "meaning": "Able to do many different things",
+          "easyMeaning": "Good at many things",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Adaptable",
+            "Flexible",
+            "Protean"
+          ],
+          "antonyms": [
+            "Limited",
+            "Inflexible",
+            "Narrow"
+          ],
+          "gregmatSentence": "He is a versatile actor and can play anything from an innocent young man to a hardened criminal.",
+          "personalSentence": "",
+          "memoryTrick": "Versatile = many versions",
+          "mastery": 0,
+          "group": 16
+        },
+        {
+          "word": "Volatile",
+          "meaning": "Likely to change suddenly; easily evaporated",
+          "easyMeaning": "Unstable and quick to change",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Unstable",
+            "Changeable",
+            "Explosive"
+          ],
+          "antonyms": [
+            "Stable",
+            "Steady",
+            "Predictable"
+          ],
+          "gregmatSentence": "The stock market is a volatile market.",
+          "personalSentence": "",
+          "memoryTrick": "Volatile = volcano-like change",
+          "mastery": 0,
+          "group": 16
+        },
+        {
+          "word": "Voluble",
+          "meaning": "Talking a lot with enthusiasm and fluency",
+          "easyMeaning": "Very talkative",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Talkative",
+            "Loquacious",
+            "Garrulous"
+          ],
+          "antonyms": [
+            "Reticent",
+            "Taciturn",
+            "Silent"
+          ],
+          "gregmatSentence": "Mrs. Thompson is a voluble and gregarious lady.",
+          "personalSentence": "",
+          "memoryTrick": "Voluble = volume of words",
+          "mastery": 0,
+          "group": 16
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "totalWords": 15,
+    "totalGroups": 1,
+    "positiveWords": 3,
+    "negativeWords": 10,
+    "neutralWords": 2,
+    "mixedWords": 0
+  }
+}

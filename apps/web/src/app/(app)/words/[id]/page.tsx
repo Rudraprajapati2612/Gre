@@ -1,12 +1,12 @@
 'use client'
 
-import { use } from 'react'
+import { use, useState } from 'react'
 import { useRouter } from 'next/navigation'
 import {
-  ChevronLeft, BookOpen, RotateCcw, Loader2, Trash2, AlertCircle
+  ChevronLeft, BookOpen, RotateCcw, Loader2, Trash2, AlertCircle, Save, StickyNote
 } from 'lucide-react'
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
-import { apiWord, apiLearnWord, apiDeleteWord } from '@/lib/api'
+import { apiWord, apiLearnWord, apiDeleteWord, apiMountainNote } from '@/lib/api'
 import { ToneChip } from '@/components/ToneChip'
 import Link from 'next/link'
 import type { WordStatus } from '@/lib/types'
@@ -40,10 +40,21 @@ export default function WordDetailPage({ params }: { params: Promise<{ id: strin
   const { id } = use(params)
   const router = useRouter()
   const qc = useQueryClient()
+  const [noteText, setNoteText] = useState<string | null>(null)
+  const [noteSaved, setNoteSaved] = useState(false)
 
   const { data, isLoading, error } = useQuery({
     queryKey: ['word', id],
     queryFn: () => apiWord(id),
+  })
+
+  const noteMutation = useMutation({
+    mutationFn: (note: string) => apiMountainNote(id, note),
+    onSuccess: () => {
+      qc.invalidateQueries({ queryKey: ['word', id] })
+      setNoteSaved(true)
+      setTimeout(() => setNoteSaved(false), 2000)
+    },
   })
 
   const learnMutation = useMutation({
@@ -86,6 +97,7 @@ export default function WordDetailPage({ params }: { params: Promise<{ id: strin
 
   const w = data.word
   const isNew = w.user_status === 'new'
+  const currentNote = noteText ?? (w.user_note ?? '')
 
   return (
     <div className="max-w-2xl mx-auto space-y-5 animate-in fade-in duration-500 pb-28">
@@ -178,6 +190,36 @@ export default function WordDetailPage({ params }: { params: Promise<{ id: strin
             </div>
           </div>
         )}
+      </div>
+
+      {/* My Note */}
+      <div className="bg-amber-wash border border-amber/20 rounded-2xl p-5 space-y-3">
+        <div className="flex items-center gap-2">
+          <StickyNote size={16} className="text-amber" />
+          <p className="text-xs font-medium text-amber uppercase tracking-wider">My Note / Sentence</p>
+        </div>
+        <textarea
+          value={currentNote}
+          onChange={e => { setNoteText(e.target.value); setNoteSaved(false) }}
+          placeholder="Write your own sentence using this word, a memory trick, or anything that helps you remember it…"
+          rows={3}
+          className="w-full bg-white/60 border border-amber/30 rounded-xl px-3 py-2.5 text-sm text-ink placeholder:text-ink-soft/50 outline-none focus:ring-2 focus:ring-amber/40 focus:border-amber resize-none transition-all"
+        />
+        <div className="flex items-center justify-between">
+          <p className="text-xs text-amber/70">Shown during revision on the flashcard</p>
+          <button
+            onClick={() => noteMutation.mutate(currentNote)}
+            disabled={noteMutation.isPending || currentNote === (w.user_note ?? '')}
+            className="flex items-center gap-1.5 px-4 py-1.5 bg-amber text-white rounded-lg text-sm font-medium hover:bg-amber/90 transition-colors disabled:opacity-40"
+          >
+            {noteMutation.isPending
+              ? <Loader2 size={14} className="animate-spin" />
+              : noteSaved
+                ? '✓ Saved'
+                : <><Save size={14} /> Save</>
+            }
+          </button>
+        </div>
       </div>
 
       {/* Actions */}

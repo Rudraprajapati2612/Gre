@@ -9,6 +9,7 @@ import { seRoutes } from './modules/se/routes'
 import { rcRoutes } from './modules/rc/routes'
 import { progressRoutes } from './modules/progress/routes'
 import { adminRoutes } from './modules/admin/routes'
+import { mountainRoutes } from './modules/mountain/routes'
 
 const PORT = Number(process.env.PORT ?? 3001)
 const CORS_ORIGIN = process.env.CORS_ORIGIN ?? 'http://localhost:3000'
@@ -42,6 +43,7 @@ const app = new Elysia()
       .use(rcRoutes)
       .use(progressRoutes)
       .use(adminRoutes)
+      .use(mountainRoutes)
   )
   .get('/', () => ({ ok: true, service: 'GRE Verbal Trainer API' }))
   .listen(PORT)

@@ -25,8 +25,14 @@ export interface Word {
   meaning: string
   tone: Tone
   example_sentence: string
+  example_sentence_2: string | null
   gre_context: string | null
   cluster: string | null
+  synonyms: string[] | null
+  antonyms: string[] | null
+  group_number: number | null
+  word_order: number | null
+  tone_needs_review: boolean
   created_at: string
   // merged user progress
   user_status: WordStatus
@@ -38,6 +44,19 @@ export interface Word {
   times_wrong: number | null
   last_reviewed_at: string | null
   marked_learning_on: string | null
+  // Mountain mark
+  last_mark: 'knew' | 'forgot' | null
+  // Personal mnemonic note
+  user_note: string | null
+}
+
+export interface MountainGroup {
+  group_number: number
+  word_count: number
+  knew_count: number
+  forgot_count: number
+  unseen_count: number
+  is_complete: boolean
 }
 
 export interface UserWordProgress {

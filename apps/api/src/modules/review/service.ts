@@ -7,10 +7,12 @@ export async function getTodayWords(userId: string, timezone: string) {
   return sql`
     SELECT w.*, uwp.status AS user_status, uwp.ease, uwp.interval_days,
            uwp.repetitions, uwp.due_date, uwp.times_seen, uwp.times_wrong,
-           uwp.marked_learning_on, uwp.last_reviewed_at
+           uwp.marked_learning_on, uwp.last_reviewed_at, uwp.user_note, w.antonyms
     FROM user_word_progress uwp
     JOIN words w ON w.id = uwp.word_id
-    WHERE uwp.user_id = ${userId} AND uwp.marked_learning_on = ${today}
+    WHERE uwp.user_id = ${userId}
+      AND uwp.marked_learning_on = ${today}
+      AND (uwp.last_reviewed_at IS NULL OR uwp.last_reviewed_at::date != ${today}::date)
     ORDER BY w.word
   `
 }
@@ -20,12 +22,13 @@ export async function getDueWords(userId: string, timezone: string) {
   return sql`
     SELECT w.*, uwp.status AS user_status, uwp.ease, uwp.interval_days,
            uwp.repetitions, uwp.due_date, uwp.times_seen, uwp.times_wrong,
-           uwp.marked_learning_on, uwp.last_reviewed_at
+           uwp.marked_learning_on, uwp.last_reviewed_at, uwp.user_note, w.antonyms
     FROM user_word_progress uwp
     JOIN words w ON w.id = uwp.word_id
     WHERE uwp.user_id = ${userId}
       AND uwp.due_date <= ${today}
       AND uwp.status != 'new'
+      AND (uwp.marked_learning_on IS NULL OR uwp.marked_learning_on != ${today})
     ORDER BY uwp.due_date ASC, uwp.times_wrong DESC
   `
 }

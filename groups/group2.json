@@ -1,0 +1,377 @@
+{
+  "groups": [
+    {
+      "groupNumber": 2,
+      "words": [
+        {
+          "word": "Archaic",
+          "meaning": "Old, ancient, or obsolete",
+          "easyMeaning": "Very old and no longer used much",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Ancient",
+            "Obsolete",
+            "Antiquated"
+          ],
+          "antonyms": [
+            "Modern",
+            "Current",
+            "Contemporary"
+          ],
+          "gregmatSentence": "Because my archaic computer is no longer useful to me, I'm giving it away for free.",
+          "personalSentence": "",
+          "memoryTrick": "Archaic = archive old things",
+          "mastery": 0,
+          "group": 2
+        },
+        {
+          "word": "Assertion",
+          "meaning": "An insisting statement or confident claim",
+          "easyMeaning": "A strong statement of belief",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "Medium",
+          "synonyms": [
+            "Claim",
+            "Declaration",
+            "Statement"
+          ],
+          "antonyms": [
+            "Denial",
+            "Retraction",
+            "Question"
+          ],
+          "gregmatSentence": "The lawyer was correct in his assertion that the minister had been lying.",
+          "personalSentence": "",
+          "memoryTrick": "Assertion = assert a claim",
+          "mastery": 0,
+          "group": 2
+        },
+        {
+          "word": "Assiduity",
+          "meaning": "Devoted attention, strong focus, and determination",
+          "easyMeaning": "Careful steady effort",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Hard",
+          "greFrequency": "Medium",
+          "synonyms": [
+            "Diligence",
+            "Perseverance",
+            "Industry"
+          ],
+          "antonyms": [
+            "Negligence",
+            "Laziness",
+            "Carelessness"
+          ],
+          "gregmatSentence": "I marvel at the assiduity with which she completes her projects.",
+          "personalSentence": "",
+          "memoryTrick": "Assiduity = sit and do it",
+          "mastery": 0,
+          "group": 2
+        },
+        {
+          "word": "Atypical",
+          "meaning": "Not common or not typical",
+          "easyMeaning": "Not the usual kind",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Easy",
+          "greFrequency": "High",
+          "synonyms": [
+            "Unusual",
+            "Abnormal",
+            "Uncommon"
+          ],
+          "antonyms": [
+            "Typical",
+            "Normal",
+            "Common"
+          ],
+          "gregmatSentence": "Eating meat would be completely atypical for a vegetarian.",
+          "personalSentence": "",
+          "memoryTrick": "A = not, typical = normal",
+          "mastery": 0,
+          "group": 2
+        },
+        {
+          "word": "Augment",
+          "meaning": "To enlarge, increase, or make better",
+          "easyMeaning": "To add to or strengthen",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Increase",
+            "Enhance",
+            "Expand"
+          ],
+          "antonyms": [
+            "Reduce",
+            "Diminish",
+            "Lessen"
+          ],
+          "gregmatSentence": "You could augment your argument by including more facts.",
+          "personalSentence": "",
+          "memoryTrick": "Augment = add to make giant",
+          "mastery": 0,
+          "group": 2
+        },
+        {
+          "word": "Austere",
+          "meaning": "Severe or strict in manner or attitude",
+          "easyMeaning": "Strict and plain",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Stern",
+            "Severe",
+            "Spartan"
+          ],
+          "antonyms": [
+            "Warm",
+            "Luxurious",
+            "Lenient"
+          ],
+          "gregmatSentence": "Even though my teacher appeared austere, she was a very kind woman.",
+          "personalSentence": "",
+          "memoryTrick": "Austere = a severe stare",
+          "mastery": 0,
+          "group": 2
+        },
+        {
+          "word": "Averse",
+          "meaning": "Having a strong dislike of something",
+          "easyMeaning": "Strongly against something",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Opposed",
+            "Reluctant",
+            "Disinclined"
+          ],
+          "antonyms": [
+            "Eager",
+            "Willing",
+            "Favorable"
+          ],
+          "gregmatSentence": "Since my children are averse to broccoli, I have to hide the vegetable in their favorite dishes.",
+          "personalSentence": "",
+          "memoryTrick": "Averse = against verse",
+          "mastery": 0,
+          "group": 2
+        },
+        {
+          "word": "Belie",
+          "meaning": "To give a false impression of something",
+          "easyMeaning": "To make something seem untrue",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Contradict",
+            "Misrepresent",
+            "Disguise"
+          ],
+          "antonyms": [
+            "Reveal",
+            "Confirm",
+            "Support"
+          ],
+          "gregmatSentence": "His gentleness belied his evil nature.",
+          "personalSentence": "",
+          "memoryTrick": "Belie = be a lie",
+          "mastery": 0,
+          "group": 2
+        },
+        {
+          "word": "Benign",
+          "meaning": "Having no harmful effect; pleasant and kind",
+          "easyMeaning": "Harmless and kind",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Harmless",
+            "Kindly",
+            "Gentle"
+          ],
+          "antonyms": [
+            "Malignant",
+            "Harmful",
+            "Hostile"
+          ],
+          "gregmatSentence": "The officer was kind and benign.",
+          "personalSentence": "",
+          "memoryTrick": "Benign = be nice",
+          "mastery": 0,
+          "group": 2
+        },
+        {
+          "word": "Bolster",
+          "meaning": "To support and strengthen",
+          "easyMeaning": "To make stronger",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Support",
+            "Reinforce",
+            "Strengthen"
+          ],
+          "antonyms": [
+            "Undermine",
+            "Weaken",
+            "Impede"
+          ],
+          "gregmatSentence": "I appreciate your attempts to bolster my confidence.",
+          "personalSentence": "",
+          "memoryTrick": "Bolster = build a support bolster pillow",
+          "mastery": 0,
+          "group": 2
+        },
+        {
+          "word": "Boon",
+          "meaning": "A benefit or blessing for which one should be grateful",
+          "easyMeaning": "A helpful blessing",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Benefit",
+            "Blessing",
+            "Advantage"
+          ],
+          "antonyms": [
+            "Curse",
+            "Misfortune",
+            "Drawback"
+          ],
+          "gregmatSentence": "The donation from the billionaire was a nice boon for the homeless charity.",
+          "personalSentence": "",
+          "memoryTrick": "Boon = bonus blessing",
+          "mastery": 0,
+          "group": 2
+        },
+        {
+          "word": "Brevity",
+          "meaning": "Conciseness and exact use of words",
+          "easyMeaning": "Saying something briefly",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Conciseness",
+            "Succinctness",
+            "Pithiness"
+          ],
+          "antonyms": [
+            "Wordiness",
+            "Verbosity",
+            "Lengthiness"
+          ],
+          "gregmatSentence": "The president made his points with praiseworthy brevity.",
+          "personalSentence": "",
+          "memoryTrick": "Brevity = brief",
+          "mastery": 0,
+          "group": 2
+        },
+        {
+          "word": "Camouflage",
+          "meaning": "To hide or disguise by blending with surroundings",
+          "easyMeaning": "To hide by blending in",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Easy",
+          "greFrequency": "Medium",
+          "synonyms": [
+            "Disguise",
+            "Conceal",
+            "Mask"
+          ],
+          "antonyms": [
+            "Expose",
+            "Reveal",
+            "Uncover"
+          ],
+          "gregmatSentence": "The color of the lizard skin camouflaged it against the tree bark so that birds couldn't see it.",
+          "personalSentence": "",
+          "memoryTrick": "Camouflage = camera cannot find it",
+          "mastery": 0,
+          "group": 2
+        },
+        {
+          "word": "Capricious",
+          "meaning": "Subject to sudden unpredictable changes",
+          "easyMeaning": "Changing suddenly for no reason",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Fickle",
+            "Whimsical",
+            "Erratic"
+          ],
+          "antonyms": [
+            "Steady",
+            "Predictable",
+            "Consistent"
+          ],
+          "gregmatSentence": "He was a poor leader and made capricious decisions that made no sense.",
+          "personalSentence": "",
+          "memoryTrick": "Capricious = captain changes course",
+          "mastery": 0,
+          "group": 2
+        },
+        {
+          "word": "Cavalier",
+          "meaning": "Not caring about feelings or serious situations",
+          "easyMeaning": "Too casual about serious things",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Dismissive",
+            "Flippant",
+            "Nonchalant"
+          ],
+          "antonyms": [
+            "Careful",
+            "Respectful",
+            "Concerned"
+          ],
+          "gregmatSentence": "He had a cavalier attitude to proofreading his essays and often submitted them with many mistakes.",
+          "personalSentence": "",
+          "memoryTrick": "Cavalier = casually cavalier knight",
+          "mastery": 0,
+          "group": 2
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "totalWords": 15,
+    "totalGroups": 1,
+    "positiveWords": 6,
+    "negativeWords": 5,
+    "neutralWords": 4,
+    "mixedWords": 0
+  }
+}

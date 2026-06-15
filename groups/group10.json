@@ -1,0 +1,377 @@
+{
+  "groups": [
+    {
+      "groupNumber": 10,
+      "words": [
+        {
+          "word": "Intrigue",
+          "meaning": "To cause interest or curiosity",
+          "easyMeaning": "To make someone curious",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Fascinate",
+            "Interest",
+            "Captivate"
+          ],
+          "antonyms": [
+            "Bore",
+            "Repel",
+            "Disinterest"
+          ],
+          "gregmatSentence": "I found his theory very intriguing and wanted to know more.",
+          "personalSentence": "",
+          "memoryTrick": "Intrigue = triggers interest",
+          "mastery": 0,
+          "group": 10
+        },
+        {
+          "word": "Irascible",
+          "meaning": "Quickly aroused to anger",
+          "easyMeaning": "Easily angered",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Irritable",
+            "Testy",
+            "Choleric"
+          ],
+          "antonyms": [
+            "Calm",
+            "Patient",
+            "Placid"
+          ],
+          "gregmatSentence": "Our math teacher was a cruel and irascible old man.",
+          "personalSentence": "",
+          "memoryTrick": "Irascible = irritable",
+          "mastery": 0,
+          "group": 10
+        },
+        {
+          "word": "Irrelevant",
+          "meaning": "Having no connection with the matter at hand",
+          "easyMeaning": "Not related to the topic",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Easy",
+          "greFrequency": "High",
+          "synonyms": [
+            "Unrelated",
+            "Extraneous",
+            "Immaterial"
+          ],
+          "antonyms": [
+            "Relevant",
+            "Germane",
+            "Pertinent"
+          ],
+          "gregmatSentence": "Please don't ask irrelevant questions since we have to stay focused.",
+          "personalSentence": "",
+          "memoryTrick": "Irrelevant = not relevant",
+          "mastery": 0,
+          "group": 10
+        },
+        {
+          "word": "Irreverent",
+          "meaning": "Showing lack of due respect",
+          "easyMeaning": "Disrespectful toward something serious",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Disrespectful",
+            "Flippant",
+            "Impious"
+          ],
+          "antonyms": [
+            "Respectful",
+            "Reverent",
+            "Deferential"
+          ],
+          "gregmatSentence": "The young man was often punished for his irreverent behavior.",
+          "personalSentence": "",
+          "memoryTrick": "Irreverent = not reverent",
+          "mastery": 0,
+          "group": 10
+        },
+        {
+          "word": "Itinerant",
+          "meaning": "Traveling from place to place, often for work",
+          "easyMeaning": "Moving around instead of staying in one place",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Traveling",
+            "Nomadic",
+            "Peripatetic"
+          ],
+          "antonyms": [
+            "Settled",
+            "Stationary",
+            "Fixed"
+          ],
+          "gregmatSentence": "He was an itinerant crop worker and would travel to wherever he was needed.",
+          "personalSentence": "",
+          "memoryTrick": "Itinerant = itinerary person",
+          "mastery": 0,
+          "group": 10
+        },
+        {
+          "word": "Lackadaisical",
+          "meaning": "Lacking enthusiasm or determination; carelessly lazy",
+          "easyMeaning": "Lazy and not caring",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Lazy",
+            "Listless",
+            "Apathetic"
+          ],
+          "antonyms": [
+            "Diligent",
+            "Energetic",
+            "Conscientious"
+          ],
+          "gregmatSentence": "He has a lackadaisical attitude towards his work as a security guard and often leaves his post.",
+          "personalSentence": "",
+          "memoryTrick": "Lackadaisical = lack of dazzle",
+          "mastery": 0,
+          "group": 10
+        },
+        {
+          "word": "Lucid",
+          "meaning": "Transparently clear and easily understandable",
+          "easyMeaning": "Clear and easy to follow",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Clear",
+            "Coherent",
+            "Intelligible"
+          ],
+          "antonyms": [
+            "Confusing",
+            "Obscure",
+            "Incoherent"
+          ],
+          "gregmatSentence": "He gave a lucid account of the incident.",
+          "personalSentence": "",
+          "memoryTrick": "Lucid = light makes it clear",
+          "mastery": 0,
+          "group": 10
+        },
+        {
+          "word": "Malleable",
+          "meaning": "Capable of being shaped or bent without cracking",
+          "easyMeaning": "Easy to shape or influence",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Flexible",
+            "Pliable",
+            "Adaptable"
+          ],
+          "antonyms": [
+            "Rigid",
+            "Inflexible",
+            "Brittle"
+          ],
+          "gregmatSentence": "Silver is the most malleable of all metals.",
+          "personalSentence": "",
+          "memoryTrick": "Malleable = mallet can shape it",
+          "mastery": 0,
+          "group": 10
+        },
+        {
+          "word": "Manifest",
+          "meaning": "Clear or evident to the eye; obvious",
+          "easyMeaning": "Easy to see",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Obvious",
+            "Evident",
+            "Apparent"
+          ],
+          "antonyms": [
+            "Hidden",
+            "Obscure",
+            "Concealed"
+          ],
+          "gregmatSentence": "The love on Amy's face was manifest and obvious to everyone.",
+          "personalSentence": "",
+          "memoryTrick": "Manifest = made visible",
+          "mastery": 0,
+          "group": 10
+        },
+        {
+          "word": "Meager",
+          "meaning": "Lacking in amount or quality",
+          "easyMeaning": "Too small or not enough",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Scanty",
+            "Sparse",
+            "Paltry"
+          ],
+          "antonyms": [
+            "Abundant",
+            "Plentiful",
+            "Generous"
+          ],
+          "gregmatSentence": "He accepted the meager pay because it was his only means of income.",
+          "personalSentence": "",
+          "memoryTrick": "Meager = mini eager amount",
+          "mastery": 0,
+          "group": 10
+        },
+        {
+          "word": "Mediocrity",
+          "meaning": "Moderate or ordinary ability, quality, or value",
+          "easyMeaning": "Being only average",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Averageness",
+            "Ordinariness",
+            "Inferiority"
+          ],
+          "antonyms": [
+            "Excellence",
+            "Superiority",
+            "Distinction"
+          ],
+          "gregmatSentence": "Mediocrity was never good enough for her and she always tried her hardest.",
+          "personalSentence": "",
+          "memoryTrick": "Mediocrity = medium quality",
+          "mastery": 0,
+          "group": 10
+        },
+        {
+          "word": "Meticulous",
+          "meaning": "Showing great attention to detail",
+          "easyMeaning": "Very careful about small details",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Careful",
+            "Thorough",
+            "Punctilious"
+          ],
+          "antonyms": [
+            "Careless",
+            "Sloppy",
+            "Negligent"
+          ],
+          "gregmatSentence": "She inspected the house in meticulous detail.",
+          "personalSentence": "",
+          "memoryTrick": "Meticulous = microscope careful",
+          "mastery": 0,
+          "group": 10
+        },
+        {
+          "word": "Mitigate",
+          "meaning": "To make less severe or serious",
+          "easyMeaning": "To make a problem less bad",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Alleviate",
+            "Lessen",
+            "Moderate"
+          ],
+          "antonyms": [
+            "Exacerbate",
+            "Worsen",
+            "Intensify"
+          ],
+          "gregmatSentence": "The effects on the family were mitigated by the income of his wife.",
+          "personalSentence": "",
+          "memoryTrick": "Mitigate = make it mild",
+          "mastery": 0,
+          "group": 10
+        },
+        {
+          "word": "Morose",
+          "meaning": "Showing brooding ill humor",
+          "easyMeaning": "Gloomy and sad",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Gloomy",
+            "Sullen",
+            "Melancholy"
+          ],
+          "antonyms": [
+            "Cheerful",
+            "Joyful",
+            "Optimistic"
+          ],
+          "gregmatSentence": "After the relationship ended she became morose for several weeks.",
+          "personalSentence": "",
+          "memoryTrick": "Morose = more rose wilted sadness",
+          "mastery": 0,
+          "group": 10
+        },
+        {
+          "word": "Mundane",
+          "meaning": "Lacking interest or excitement; dull or everyday",
+          "easyMeaning": "Ordinary and boring",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Ordinary",
+            "Dull",
+            "Prosaic"
+          ],
+          "antonyms": [
+            "Exciting",
+            "Extraordinary",
+            "Remarkable"
+          ],
+          "gregmatSentence": "It was hard to return to a mundane nine-to-five job after vacation.",
+          "personalSentence": "",
+          "memoryTrick": "Mundane = Monday routine",
+          "mastery": 0,
+          "group": 10
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "totalWords": 15,
+    "totalGroups": 1,
+    "positiveWords": 4,
+    "negativeWords": 8,
+    "neutralWords": 3,
+    "mixedWords": 0
+  }
+}

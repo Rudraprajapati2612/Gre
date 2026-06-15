@@ -25,21 +25,27 @@ CREATE INDEX IF NOT EXISTS idx_rt_user ON refresh_tokens(user_id);
 
 -- Words (shared content)
 CREATE TABLE IF NOT EXISTS words (
-  id              uuid PRIMARY KEY DEFAULT gen_random_uuid(),
-  word            text NOT NULL UNIQUE,
-  meaning         text NOT NULL,
-  tone            text NOT NULL CHECK (tone IN ('formal','neutral','negative','positive','informal')),
-  example_sentence text NOT NULL,
-  gre_context     text,
-  cluster         text,
-  search_vector   tsvector GENERATED ALWAYS AS (
+  id                  uuid PRIMARY KEY DEFAULT gen_random_uuid(),
+  word                text NOT NULL UNIQUE,
+  meaning             text NOT NULL,
+  tone                text NOT NULL CHECK (tone IN ('formal','neutral','negative','positive','informal')),
+  example_sentence    text NOT NULL,
+  example_sentence_2  text,
+  gre_context         text,
+  cluster             text,
+  synonyms            text[],
+  group_number        integer,
+  word_order          integer,
+  tone_needs_review   boolean NOT NULL DEFAULT false,
+  search_vector       tsvector GENERATED ALWAYS AS (
     to_tsvector('english', word || ' ' || meaning)
   ) STORED,
-  created_at      timestamptz NOT NULL DEFAULT now()
+  created_at          timestamptz NOT NULL DEFAULT now()
 );
 CREATE INDEX IF NOT EXISTS idx_words_word    ON words(word);
 CREATE INDEX IF NOT EXISTS idx_words_cluster ON words(cluster);
 CREATE INDEX IF NOT EXISTS idx_words_fts     ON words USING GIN(search_vector);
+-- idx_words_group is created by migrations/002_mountain.sql (column may not exist on old tables)
 
 -- Per-user word progress (drives SRS)
 CREATE TABLE IF NOT EXISTS user_word_progress (
@@ -55,6 +61,7 @@ CREATE TABLE IF NOT EXISTS user_word_progress (
   last_reviewed_at  timestamptz,
   times_seen        integer NOT NULL DEFAULT 0,
   times_wrong       integer NOT NULL DEFAULT 0,
+  last_mark         text CHECK (last_mark IN ('knew','forgot')),
   created_at        timestamptz NOT NULL DEFAULT now(),
   UNIQUE(user_id, word_id)
 );

@@ -37,7 +37,19 @@ function ReviewContent() {
   })
 
   const isLoading = mode === 'due' ? loadingDue : loadingToday
-  const words: Word[] = (mode === 'due' ? dueData?.words : todayData?.words) ?? []
+  const fetchedWords: Word[] = (mode === 'due' ? dueData?.words : todayData?.words) ?? []
+
+  // Snapshot the word list once when it first loads so mid-session refetches
+  // (triggered by submitMutation invalidations) can't shrink the array and
+  // leave currentIndex pointing at undefined.
+  const [sessionWords, setSessionWords] = useState<Word[]>([])
+  useEffect(() => {
+    if (sessionWords.length === 0 && fetchedWords.length > 0) {
+      setSessionWords(fetchedWords)
+    }
+  }, [fetchedWords]) // eslint-disable-line react-hooks/exhaustive-deps
+
+  const words = sessionWords
 
   const [currentIndex, setCurrentIndex] = useState(0)
   const [revealed, setRevealed] = useState(false)
@@ -61,7 +73,7 @@ function ReviewContent() {
 
   if (!user) return null
 
-  if (isLoading) {
+  if (isLoading || (fetchedWords.length > 0 && sessionWords.length === 0)) {
     return (
       <div className="h-[100dvh] flex items-center justify-center bg-bg">
         <Loader2 className="animate-spin text-brand" size={32} />
@@ -193,8 +205,41 @@ function ReviewContent() {
                   <p className="text-ink-soft italic text-[15px]">&ldquo;{word.example_sentence}&rdquo;</p>
                 </div>
               )}
+              {(word.synonyms?.length || word.antonyms?.length) && (
+                <div className="grid grid-cols-2 gap-3 w-full">
+                  {word.synonyms && word.synonyms.length > 0 && (
+                    <div className="space-y-1 text-left">
+                      <p className="text-[10px] font-medium text-ink-soft uppercase tracking-wide">Synonyms</p>
+                      <div className="flex flex-wrap gap-1">
+                        {word.synonyms.map(s => (
+                          <span key={s} className="text-xs text-brand bg-brand-wash px-2 py-0.5 rounded-full">{s}</span>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                  {word.antonyms && word.antonyms.length > 0 && (
+                    <div className="space-y-1 text-left">
+                      <p className="text-[10px] font-medium text-ink-soft uppercase tracking-wide">Antonyms</p>
+                      <div className="flex flex-wrap gap-1">
+                        {word.antonyms.map(a => (
+                          <span key={a} className="text-xs text-danger bg-danger-wash px-2 py-0.5 rounded-full">{a}</span>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                </div>
+              )}
               {word.gre_context && (
-                <p className="text-xs text-ink-soft text-center">{word.gre_context}</p>
+                <div className="bg-surface-muted border border-border/50 rounded-xl px-4 py-3 w-full text-left">
+                  <p className="text-[10px] font-medium text-ink-soft uppercase tracking-wide mb-1">Memory trick</p>
+                  <p className="text-xs text-ink leading-relaxed">{word.gre_context}</p>
+                </div>
+              )}
+              {word.user_note && (
+                <div className="bg-amber-wash border border-amber/20 rounded-xl px-4 py-3 w-full text-left">
+                  <p className="text-[10px] font-medium text-amber uppercase tracking-wide mb-1">My note</p>
+                  <p className="text-sm text-ink leading-relaxed">{word.user_note}</p>
+                </div>
               )}
             </div>
           )}

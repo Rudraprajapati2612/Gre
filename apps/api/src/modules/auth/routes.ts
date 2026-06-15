@@ -9,7 +9,7 @@ const publicAuthRoutes = new Elysia({ prefix: '/auth' })
 
   .post(
     '/register',
-    async ({ body, accessJwt, refreshJwt, error }) => {
+    async ({ body, accessJwt, refreshJwt, set }) => {
       try {
         const user = await svc.registerUser(body.email, body.password, body.displayName, body.timezone)
         const accessToken = await accessJwt.sign({ sub: user.id })
@@ -17,7 +17,7 @@ const publicAuthRoutes = new Elysia({ prefix: '/auth' })
         await svc.storeRefreshToken(user.id, refreshToken)
         return { user, accessToken, refreshToken }
       } catch (e: any) {
-        if (e.status) return error(e.status, { error: { code: e.code, message: e.message } })
+        if (e.status) { set.status = e.status; return { error: { code: e.code, message: e.message } } }
         throw e
       }
     },
@@ -33,7 +33,7 @@ const publicAuthRoutes = new Elysia({ prefix: '/auth' })
 
   .post(
     '/login',
-    async ({ body, accessJwt, refreshJwt, error }) => {
+    async ({ body, accessJwt, refreshJwt, set }) => {
       try {
         const user = await svc.loginUser(body.email, body.password)
         const accessToken = await accessJwt.sign({ sub: user.id })
@@ -41,7 +41,7 @@ const publicAuthRoutes = new Elysia({ prefix: '/auth' })
         await svc.storeRefreshToken(user.id, refreshToken)
         return { user, accessToken, refreshToken }
       } catch (e: any) {
-        if (e.status) return error(e.status, { error: { code: e.code, message: e.message } })
+        if (e.status) { set.status = e.status; return { error: { code: e.code, message: e.message } } }
         throw e
       }
     },
@@ -55,9 +55,9 @@ const publicAuthRoutes = new Elysia({ prefix: '/auth' })
 
   .post(
     '/refresh',
-    async ({ body, accessJwt, refreshJwt, error }) => {
+    async ({ body, accessJwt, refreshJwt, set }) => {
       const userId = await svc.validateAndRevokeRefreshToken(body.refreshToken)
-      if (!userId) return error(401, { error: { code: 'INVALID_REFRESH_TOKEN', message: 'Invalid or expired refresh token' } })
+      if (!userId) { set.status = 401; return { error: { code: 'INVALID_REFRESH_TOKEN', message: 'Invalid or expired refresh token' } } }
       const newRefreshToken = await refreshJwt.sign({ sub: userId })
       await svc.storeRefreshToken(userId, newRefreshToken)
       const accessToken = await accessJwt.sign({ sub: userId })

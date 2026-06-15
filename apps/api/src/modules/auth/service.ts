@@ -2,6 +2,7 @@ import bcrypt from 'bcryptjs'
 import crypto from 'crypto'
 import { sql } from '../../db/client'
 import { REFRESH_TTL_SECONDS } from '../../plugins/auth'
+import { normalizeTimezone } from '../../lib/dates'
 
 export async function registerUser(email: string, password: string, displayName?: string, timezone?: string) {
   const lowerEmail = email.toLowerCase()
@@ -9,9 +10,10 @@ export async function registerUser(email: string, password: string, displayName?
   if (existing.length > 0) throw { status: 409, code: 'EMAIL_TAKEN', message: 'Email already registered' }
 
   const password_hash = await bcrypt.hash(password, 12)
+  const tz = normalizeTimezone(timezone ?? 'Asia/Kolkata')
   const [user] = await sql`
     INSERT INTO users (email, password_hash, display_name, timezone)
-    VALUES (${lowerEmail}, ${password_hash}, ${displayName ?? null}, ${timezone ?? 'Asia/Kolkata'})
+    VALUES (${lowerEmail}, ${password_hash}, ${displayName ?? null}, ${tz})
     RETURNING id, email, display_name, timezone, created_at
   `
   return user

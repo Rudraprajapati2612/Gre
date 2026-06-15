@@ -1,0 +1,377 @@
+{
+  "groups": [
+    {
+      "groupNumber": 8,
+      "words": [
+        {
+          "word": "Hackneyed",
+          "meaning": "Repeated too often; overused",
+          "easyMeaning": "So overused it feels boring",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Cliched",
+            "Trite",
+            "Banal"
+          ],
+          "antonyms": [
+            "Original",
+            "Fresh",
+            "Novel"
+          ],
+          "gregmatSentence": "The movie was full of hackneyed dialogue and plot twists.",
+          "personalSentence": "",
+          "memoryTrick": "Hackneyed = hacked to death",
+          "mastery": 0,
+          "group": 8
+        },
+        {
+          "word": "Heterogeneous",
+          "meaning": "Consisting of elements that are not the same kind",
+          "easyMeaning": "Made of different kinds",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Diverse",
+            "Mixed",
+            "Varied"
+          ],
+          "antonyms": [
+            "Homogeneous",
+            "Uniform",
+            "Similar"
+          ],
+          "gregmatSentence": "The population of the United States is vast and heterogeneous.",
+          "personalSentence": "",
+          "memoryTrick": "Hetero = different",
+          "mastery": 0,
+          "group": 8
+        },
+        {
+          "word": "Hyperbole",
+          "meaning": "Exaggeration or overstatement for effect",
+          "easyMeaning": "Big exaggeration",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Exaggeration",
+            "Overstatement",
+            "Magnification"
+          ],
+          "antonyms": [
+            "Understatement",
+            "Precision",
+            "Restraint"
+          ],
+          "gregmatSentence": "The politician uses hyperbole in his speech to gain public support.",
+          "personalSentence": "",
+          "memoryTrick": "Hyperbole = hyper big claim",
+          "mastery": 0,
+          "group": 8
+        },
+        {
+          "word": "Hypothesis",
+          "meaning": "An opinion or explanation based on incomplete evidence",
+          "easyMeaning": "A testable educated guess",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Theory",
+            "Supposition",
+            "Premise"
+          ],
+          "antonyms": [
+            "Fact",
+            "Proof",
+            "Certainty"
+          ],
+          "gregmatSentence": "We hope that further research will confirm our hypothesis.",
+          "personalSentence": "",
+          "memoryTrick": "Hypothesis = idea under test",
+          "mastery": 0,
+          "group": 8
+        },
+        {
+          "word": "Idiosyncratic",
+          "meaning": "Having strange or unusual habits, behavior, or features",
+          "easyMeaning": "Having a unique odd style",
+          "tone": "Mixed",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Peculiar",
+            "Quirky",
+            "Distinctive"
+          ],
+          "antonyms": [
+            "Typical",
+            "Conventional",
+            "Normal"
+          ],
+          "gregmatSentence": "Sarah has an idiosyncratic habit of collecting toddler toys in her 20s.",
+          "personalSentence": "",
+          "memoryTrick": "Idiosyncratic = individual sync",
+          "mastery": 0,
+          "group": 8
+        },
+        {
+          "word": "Imminent",
+          "meaning": "Likely to occur at any moment",
+          "easyMeaning": "About to happen soon",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Impending",
+            "Approaching",
+            "Forthcoming"
+          ],
+          "antonyms": [
+            "Distant",
+            "Remote",
+            "Unlikely"
+          ],
+          "gregmatSentence": "Based on the dark color of the sky, I would say rain is imminent.",
+          "personalSentence": "",
+          "memoryTrick": "Imminent = in a minute",
+          "mastery": 0,
+          "group": 8
+        },
+        {
+          "word": "Impartial",
+          "meaning": "Not showing favoritism; neutral",
+          "easyMeaning": "Fair to both sides",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Neutral",
+            "Unbiased",
+            "Fair"
+          ],
+          "antonyms": [
+            "Biased",
+            "Partial",
+            "Prejudiced"
+          ],
+          "gregmatSentence": "Judges in courts are supposed to be impartial; they should not be biased.",
+          "personalSentence": "",
+          "memoryTrick": "Impartial = not partial",
+          "mastery": 0,
+          "group": 8
+        },
+        {
+          "word": "Imperative",
+          "meaning": "Necessary, unavoidable, or crucial",
+          "easyMeaning": "Absolutely necessary",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Essential",
+            "Crucial",
+            "Necessary"
+          ],
+          "antonyms": [
+            "Optional",
+            "Unnecessary",
+            "Trivial"
+          ],
+          "gregmatSentence": "It is imperative that you study hard before a test in order to succeed.",
+          "personalSentence": "",
+          "memoryTrick": "Imperative = important order",
+          "mastery": 0,
+          "group": 8
+        },
+        {
+          "word": "Imperceptible",
+          "meaning": "So slight that it cannot be noticed or felt",
+          "easyMeaning": "Almost impossible to notice",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Unnoticeable",
+            "Subtle",
+            "Indiscernible"
+          ],
+          "antonyms": [
+            "Obvious",
+            "Perceptible",
+            "Conspicuous"
+          ],
+          "gregmatSentence": "His head moved in an almost imperceptible nod.",
+          "personalSentence": "",
+          "memoryTrick": "Imperceptible = impossible to perceive",
+          "mastery": 0,
+          "group": 8
+        },
+        {
+          "word": "Imperious",
+          "meaning": "Arrogant and expecting obedience",
+          "easyMeaning": "Bossy in an arrogant way",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Arrogant",
+            "Domineering",
+            "Overbearing"
+          ],
+          "antonyms": [
+            "Humble",
+            "Submissive",
+            "Modest"
+          ],
+          "gregmatSentence": "The general intimidated everyone with his imperious glares.",
+          "personalSentence": "",
+          "memoryTrick": "Imperious = imperial boss",
+          "mastery": 0,
+          "group": 8
+        },
+        {
+          "word": "Impervious",
+          "meaning": "Not allowing something to pass through or affect it",
+          "easyMeaning": "Not affected by something",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Resistant",
+            "Immune",
+            "Impenetrable"
+          ],
+          "antonyms": [
+            "Vulnerable",
+            "Susceptible",
+            "Permeable"
+          ],
+          "gregmatSentence": "Rubber boots are impervious to water.",
+          "personalSentence": "",
+          "memoryTrick": "Impervious = cannot pierce through",
+          "mastery": 0,
+          "group": 8
+        },
+        {
+          "word": "Implausible",
+          "meaning": "Unlikely or questionable",
+          "easyMeaning": "Hard to believe",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Unlikely",
+            "Unbelievable",
+            "Questionable"
+          ],
+          "antonyms": [
+            "Plausible",
+            "Likely",
+            "Credible"
+          ],
+          "gregmatSentence": "He had what seemed to me like an implausible plan to rob the bank.",
+          "personalSentence": "",
+          "memoryTrick": "Implausible = not plausible",
+          "mastery": 0,
+          "group": 8
+        },
+        {
+          "word": "Implication",
+          "meaning": "A conclusion suggested without being directly stated",
+          "easyMeaning": "A hidden suggested meaning",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Suggestion",
+            "Inference",
+            "Insinuation"
+          ],
+          "antonyms": [
+            "Statement",
+            "Proof",
+            "Denial"
+          ],
+          "gregmatSentence": "I am offended at your implication that I have been selfish.",
+          "personalSentence": "",
+          "memoryTrick": "Implication = implied meaning",
+          "mastery": 0,
+          "group": 8
+        },
+        {
+          "word": "Inconsequential",
+          "meaning": "Lacking worth or importance",
+          "easyMeaning": "Not important",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Trivial",
+            "Minor",
+            "Insignificant"
+          ],
+          "antonyms": [
+            "Important",
+            "Consequential",
+            "Significant"
+          ],
+          "gregmatSentence": "What other people think of you is inconsequential if you have faith in yourself.",
+          "personalSentence": "",
+          "memoryTrick": "Inconsequential = no consequences",
+          "mastery": 0,
+          "group": 8
+        },
+        {
+          "word": "Inconsistent",
+          "meaning": "Displaying a lack of consistency",
+          "easyMeaning": "Changing in a way that does not match",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Easy",
+          "greFrequency": "High",
+          "synonyms": [
+            "Contradictory",
+            "Erratic",
+            "Variable"
+          ],
+          "antonyms": [
+            "Consistent",
+            "Steady",
+            "Uniform"
+          ],
+          "gregmatSentence": "The jury was turned off by the witness's inconsistent testimony.",
+          "personalSentence": "",
+          "memoryTrick": "Inconsistent = not consistent",
+          "mastery": 0,
+          "group": 8
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "totalWords": 15,
+    "totalGroups": 1,
+    "positiveWords": 2,
+    "negativeWords": 5,
+    "neutralWords": 7,
+    "mixedWords": 1
+  }
+}

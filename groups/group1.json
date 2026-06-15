@@ -1,0 +1,377 @@
+{
+  "groups": [
+    {
+      "groupNumber": 1,
+      "words": [
+        {
+          "word": "Abstract",
+          "meaning": "Existing as an idea but not having a physical existence",
+          "easyMeaning": "An idea you cannot touch",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Conceptual",
+            "Theoretical",
+            "Intangible"
+          ],
+          "antonyms": [
+            "Concrete",
+            "Physical",
+            "Tangible"
+          ],
+          "gregmatSentence": "He loved her only in the abstract, not in person.",
+          "personalSentence": "",
+          "memoryTrick": "Abstract = absent from touch",
+          "mastery": 0,
+          "group": 1
+        },
+        {
+          "word": "Abstruse",
+          "meaning": "Hard to understand",
+          "easyMeaning": "Very difficult to understand",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Esoteric",
+            "Obscure",
+            "Recondite"
+          ],
+          "antonyms": [
+            "Clear",
+            "Simple",
+            "Lucid"
+          ],
+          "gregmatSentence": "Einstein's theory of relativity is very abstruse.",
+          "personalSentence": "",
+          "memoryTrick": "Abstruse = abstract plus confusing",
+          "mastery": 0,
+          "group": 1
+        },
+        {
+          "word": "Accretion",
+          "meaning": "An addition that builds up bit by bit or layer by layer",
+          "easyMeaning": "A slow buildup of layers",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "Medium",
+          "synonyms": [
+            "Accumulation",
+            "Buildup",
+            "Increase"
+          ],
+          "antonyms": [
+            "Reduction",
+            "Erosion",
+            "Decrease"
+          ],
+          "gregmatSentence": "Layers of mineral had built up by accretion in the bottom of the bucket.",
+          "personalSentence": "",
+          "memoryTrick": "Accretion = add creates a collection",
+          "mastery": 0,
+          "group": 1
+        },
+        {
+          "word": "Adversary",
+          "meaning": "An opponent or enemy",
+          "easyMeaning": "Someone fighting against you",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Opponent",
+            "Antagonist",
+            "Foe"
+          ],
+          "antonyms": [
+            "Ally",
+            "Supporter",
+            "Friend"
+          ],
+          "gregmatSentence": "For the character of Batman, the Joker is an example of an adversary.",
+          "personalSentence": "",
+          "memoryTrick": "Adversary = adverse person",
+          "mastery": 0,
+          "group": 1
+        },
+        {
+          "word": "Aesthetic",
+          "meaning": "Concerned with beauty or appreciation of beauty",
+          "easyMeaning": "Related to how beautiful something looks",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Artistic",
+            "Beautiful",
+            "Ornamental"
+          ],
+          "antonyms": [
+            "Ugly",
+            "Unaesthetic",
+            "Functional"
+          ],
+          "gregmatSentence": "Those buildings have little aesthetic appeal.",
+          "personalSentence": "",
+          "memoryTrick": "Aesthetic = art feeling",
+          "mastery": 0,
+          "group": 1
+        },
+        {
+          "word": "Ambiguity",
+          "meaning": "Uncertainty or doubtfulness caused by more than one meaning",
+          "easyMeaning": "When something is unclear",
+          "tone": "Context-Dependent",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Uncertainty",
+            "Vagueness",
+            "Equivocation"
+          ],
+          "antonyms": [
+            "Clarity",
+            "Certainty",
+            "Precision"
+          ],
+          "gregmatSentence": "There was a lot of ambiguity in his directions, so I wasn't sure how to get there.",
+          "personalSentence": "",
+          "memoryTrick": "Ambi = two, ambiguity = two meanings",
+          "mastery": 0,
+          "group": 1
+        },
+        {
+          "word": "Ambivalent",
+          "meaning": "Uncertain or unable to decide what course to follow",
+          "easyMeaning": "Having mixed feelings",
+          "tone": "Mixed",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Undecided",
+            "Conflicted",
+            "Irresolute"
+          ],
+          "antonyms": [
+            "Certain",
+            "Decisive",
+            "Resolved"
+          ],
+          "gregmatSentence": "I wish I could decide who to vote for, but I'm still ambivalent.",
+          "personalSentence": "",
+          "memoryTrick": "Ambivalent = both values at once",
+          "mastery": 0,
+          "group": 1
+        },
+        {
+          "word": "Amorphous",
+          "meaning": "Lacking definite form or specific shape",
+          "easyMeaning": "Having no clear shape",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Shapeless",
+            "Formless",
+            "Unstructured"
+          ],
+          "antonyms": [
+            "Definite",
+            "Structured",
+            "Formed"
+          ],
+          "gregmatSentence": "Large amorphous clouds have blocked the sunlight from reaching the Earth.",
+          "personalSentence": "",
+          "memoryTrick": "A = not, morph = shape",
+          "mastery": 0,
+          "group": 1
+        },
+        {
+          "word": "Anachronism",
+          "meaning": "Something placed in the wrong historical time period",
+          "easyMeaning": "Something that does not fit its time",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Misplacement",
+            "Throwback",
+            "Historical inconsistency"
+          ],
+          "antonyms": [
+            "Modernity",
+            "Timeliness",
+            "Chronology"
+          ],
+          "gregmatSentence": "In today's computer world, a floppy disk is an anachronism.",
+          "personalSentence": "",
+          "memoryTrick": "Ana-chron = wrong time",
+          "mastery": 0,
+          "group": 1
+        },
+        {
+          "word": "Anomalous",
+          "meaning": "Abnormal or deviating from what is normal",
+          "easyMeaning": "Unusual in a surprising way",
+          "tone": "Context-Dependent",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Abnormal",
+            "Irregular",
+            "Atypical"
+          ],
+          "antonyms": [
+            "Normal",
+            "Typical",
+            "Regular"
+          ],
+          "gregmatSentence": "Researchers could not explain the anomalous test results.",
+          "personalSentence": "",
+          "memoryTrick": "Anomaly = not normal",
+          "mastery": 0,
+          "group": 1
+        },
+        {
+          "word": "Anticipated",
+          "meaning": "Expected or predicted",
+          "easyMeaning": "Expected before it happened",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Easy",
+          "greFrequency": "Medium",
+          "synonyms": [
+            "Expected",
+            "Predicted",
+            "Foreseen"
+          ],
+          "antonyms": [
+            "Unexpected",
+            "Unforeseen",
+            "Surprising"
+          ],
+          "gregmatSentence": "More people showed up to my party than I had anticipated.",
+          "personalSentence": "",
+          "memoryTrick": "Anticipate = see it before",
+          "mastery": 0,
+          "group": 1
+        },
+        {
+          "word": "Apparent",
+          "meaning": "Clearly visible or obvious",
+          "easyMeaning": "Easy to see or understand",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Easy",
+          "greFrequency": "High",
+          "synonyms": [
+            "Obvious",
+            "Evident",
+            "Clear"
+          ],
+          "antonyms": [
+            "Hidden",
+            "Obscure",
+            "Unclear"
+          ],
+          "gregmatSentence": "The effects of the drought are apparent to anyone who sees the parched fields.",
+          "personalSentence": "",
+          "memoryTrick": "Apparent = appears clearly",
+          "mastery": 0,
+          "group": 1
+        },
+        {
+          "word": "Approbation",
+          "meaning": "Official recognition or approval",
+          "easyMeaning": "Formal praise or approval",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Approval",
+            "Praise",
+            "Sanction"
+          ],
+          "antonyms": [
+            "Disapproval",
+            "Condemnation",
+            "Censure"
+          ],
+          "gregmatSentence": "He was a very well-behaved student and always received the approbation of his teachers.",
+          "personalSentence": "",
+          "memoryTrick": "Approbation = approval",
+          "mastery": 0,
+          "group": 1
+        },
+        {
+          "word": "Arbitrary",
+          "meaning": "Based on random choice or personal desire rather than reason",
+          "easyMeaning": "Random, with no clear reason",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Random",
+            "Capricious",
+            "Whimsical"
+          ],
+          "antonyms": [
+            "Reasoned",
+            "Logical",
+            "Deliberate"
+          ],
+          "gregmatSentence": "Despite being sensitive to cold temperature, he made an arbitrary decision to visit Antarctica.",
+          "personalSentence": "",
+          "memoryTrick": "Arbitrary = air decision, floating randomly",
+          "mastery": 0,
+          "group": 1
+        },
+        {
+          "word": "Arcane",
+          "meaning": "Known or understood by very few people",
+          "easyMeaning": "Only experts understand it",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Esoteric",
+            "Obscure",
+            "Mysterious"
+          ],
+          "antonyms": [
+            "Common",
+            "Obvious",
+            "Accessible"
+          ],
+          "gregmatSentence": "Mr. Allen had a very arcane way of teaching mathematics.",
+          "personalSentence": "",
+          "memoryTrick": "Arcane = only a few CAN understand it",
+          "mastery": 0,
+          "group": 1
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "totalWords": 15,
+    "totalGroups": 1,
+    "positiveWords": 2,
+    "negativeWords": 3,
+    "neutralWords": 7,
+    "mixedWords": 3
+  }
+}

@@ -1,8 +1,9 @@
 import { sql } from '../../db/client'
-import { computeStreak, userLocalToday } from '../../lib/dates'
+import { computeStreak, userLocalToday, normalizeTimezone } from '../../lib/dates'
 
 export async function getSummary(userId: string, timezone: string) {
-  const today = userLocalToday(timezone)
+  const tz = normalizeTimezone(timezone)
+  const today = userLocalToday(tz)
 
   const [counts] = await sql`
     SELECT
@@ -21,7 +22,7 @@ export async function getSummary(userId: string, timezone: string) {
   `
 
   const activityRows = await sql`
-    SELECT (answered_at AT TIME ZONE ${timezone})::date::text AS day
+    SELECT (answered_at AT TIME ZONE ${tz})::date::text AS day
     FROM quiz_attempts
     WHERE user_id = ${userId}
     ORDER BY day

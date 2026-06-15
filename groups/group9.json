@@ -1,0 +1,377 @@
+{
+  "groups": [
+    {
+      "groupNumber": 9,
+      "words": [
+        {
+          "word": "Indifference",
+          "meaning": "Lack of concern or interest",
+          "easyMeaning": "Not caring",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Apathy",
+            "Disinterest",
+            "Unconcern"
+          ],
+          "antonyms": [
+            "Concern",
+            "Interest",
+            "Passion"
+          ],
+          "gregmatSentence": "He was saddened by the indifference of his wife with regard to his interests.",
+          "personalSentence": "",
+          "memoryTrick": "Indifference = no difference to you",
+          "mastery": 0,
+          "group": 9
+        },
+        {
+          "word": "Indigenous",
+          "meaning": "Originating in the place where it is found",
+          "easyMeaning": "Native to a place",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Native",
+            "Local",
+            "Aboriginal"
+          ],
+          "antonyms": [
+            "Foreign",
+            "Imported",
+            "Alien"
+          ],
+          "gregmatSentence": "The Ainu are indigenous to the northernmost islands of Japan.",
+          "personalSentence": "",
+          "memoryTrick": "Indigenous = in the original region",
+          "mastery": 0,
+          "group": 9
+        },
+        {
+          "word": "Indiscernible",
+          "meaning": "Difficult or impossible to perceive or discern",
+          "easyMeaning": "Impossible to make out clearly",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Imperceptible",
+            "Unclear",
+            "Invisible"
+          ],
+          "antonyms": [
+            "Clear",
+            "Obvious",
+            "Discernible"
+          ],
+          "gregmatSentence": "Because it was so dark outside, the faces of the people outside my door were indiscernible.",
+          "personalSentence": "",
+          "memoryTrick": "Indiscernible = cannot discern",
+          "mastery": 0,
+          "group": 9
+        },
+        {
+          "word": "Indispensable",
+          "meaning": "Absolutely or vitally necessary",
+          "easyMeaning": "Needed so much you cannot do without it",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Essential",
+            "Necessary",
+            "Vital"
+          ],
+          "antonyms": [
+            "Unnecessary",
+            "Expendable",
+            "Superfluous"
+          ],
+          "gregmatSentence": "Sleep and exercise are indispensable to good health.",
+          "personalSentence": "",
+          "memoryTrick": "Indispensable = cannot dispense with it",
+          "mastery": 0,
+          "group": 9
+        },
+        {
+          "word": "Inert",
+          "meaning": "Unable to move or resist motion",
+          "easyMeaning": "Motionless and inactive",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Motionless",
+            "Inactive",
+            "Lifeless"
+          ],
+          "antonyms": [
+            "Active",
+            "Energetic",
+            "Animated"
+          ],
+          "gregmatSentence": "After hours of lying in the sun, the dog remained inert, refusing to move.",
+          "personalSentence": "",
+          "memoryTrick": "Inert = in earth, unmoving",
+          "mastery": 0,
+          "group": 9
+        },
+        {
+          "word": "Inevitable",
+          "meaning": "Incapable of being avoided or prevented",
+          "easyMeaning": "Certain to happen",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Unavoidable",
+            "Certain",
+            "Inescapable"
+          ],
+          "antonyms": [
+            "Avoidable",
+            "Uncertain",
+            "Preventable"
+          ],
+          "gregmatSentence": "A rise in the interest rates seems inevitable.",
+          "personalSentence": "",
+          "memoryTrick": "Inevitable = never evitable",
+          "mastery": 0,
+          "group": 9
+        },
+        {
+          "word": "Inexplicable",
+          "meaning": "Not able to be explained or accounted for",
+          "easyMeaning": "Impossible to explain",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Unexplainable",
+            "Mysterious",
+            "Puzzling"
+          ],
+          "antonyms": [
+            "Explainable",
+            "Clear",
+            "Obvious"
+          ],
+          "gregmatSentence": "He left the house at three in the morning for inexplicable reasons.",
+          "personalSentence": "",
+          "memoryTrick": "Inexplicable = not explainable",
+          "mastery": 0,
+          "group": 9
+        },
+        {
+          "word": "Ingenuous",
+          "meaning": "Lacking sophistication or worldliness; innocent",
+          "easyMeaning": "Honest and innocent",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Innocent",
+            "Naive",
+            "Candid"
+          ],
+          "antonyms": [
+            "Disingenuous",
+            "Sophisticated",
+            "Deceitful"
+          ],
+          "gregmatSentence": "The little boy's ingenuous habit of constantly telling the truth made him unpopular at school.",
+          "personalSentence": "",
+          "memoryTrick": "Ingenuous = genuine inside",
+          "mastery": 0,
+          "group": 9
+        },
+        {
+          "word": "Inimical",
+          "meaning": "Causing harm or strongly opposed",
+          "easyMeaning": "Harmful or hostile",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Harmful",
+            "Hostile",
+            "Adverse"
+          ],
+          "antonyms": [
+            "Friendly",
+            "Beneficial",
+            "Favorable"
+          ],
+          "gregmatSentence": "The conditions on Mars are most likely inimical to life.",
+          "personalSentence": "",
+          "memoryTrick": "Inimical = enemy-like",
+          "mastery": 0,
+          "group": 9
+        },
+        {
+          "word": "Innocuous",
+          "meaning": "Not harmful, offensive, or strong",
+          "easyMeaning": "Harmless",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Harmless",
+            "Benign",
+            "Inoffensive"
+          ],
+          "antonyms": [
+            "Harmful",
+            "Pernicious",
+            "Offensive"
+          ],
+          "gregmatSentence": "He's a perfectly innocuous young man.",
+          "personalSentence": "",
+          "memoryTrick": "Innocuous = innocent of harm",
+          "mastery": 0,
+          "group": 9
+        },
+        {
+          "word": "Inscrutable",
+          "meaning": "Impossible to understand or interpret",
+          "easyMeaning": "Impossible to read or understand",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Mysterious",
+            "Unfathomable",
+            "Impenetrable"
+          ],
+          "antonyms": [
+            "Clear",
+            "Obvious",
+            "Transparent"
+          ],
+          "gregmatSentence": "I wondered how she felt, but her face was an inscrutable mask.",
+          "personalSentence": "",
+          "memoryTrick": "Inscrutable = cannot scrutinize",
+          "mastery": 0,
+          "group": 9
+        },
+        {
+          "word": "Insular",
+          "meaning": "Separated from others and uninterested in outside cultures or ideas",
+          "easyMeaning": "Closed off from the outside world",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Narrow",
+            "Isolated",
+            "Parochial"
+          ],
+          "antonyms": [
+            "Cosmopolitan",
+            "Open",
+            "Worldly"
+          ],
+          "gregmatSentence": "He has lived a largely insular life, never having left the town he grew up in.",
+          "personalSentence": "",
+          "memoryTrick": "Insular = island-like",
+          "mastery": 0,
+          "group": 9
+        },
+        {
+          "word": "Intractable",
+          "meaning": "Not easily managed or controlled",
+          "easyMeaning": "Very hard to control or solve",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Unmanageable",
+            "Stubborn",
+            "Difficult"
+          ],
+          "antonyms": [
+            "Manageable",
+            "Obedient",
+            "Tractable"
+          ],
+          "gregmatSentence": "Bringing up the sunken cruise ship is going to be an intractable task.",
+          "personalSentence": "",
+          "memoryTrick": "Intractable = cannot be tracked or handled",
+          "mastery": 0,
+          "group": 9
+        },
+        {
+          "word": "Intransigent",
+          "meaning": "Uncompromising and refusing to change",
+          "easyMeaning": "Stubbornly refusing to compromise",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Uncompromising",
+            "Stubborn",
+            "Obstinate"
+          ],
+          "antonyms": [
+            "Flexible",
+            "Compromising",
+            "Yielding"
+          ],
+          "gregmatSentence": "Despite prolonged negotiations, the union was intransigent and refused to budge on its demands.",
+          "personalSentence": "",
+          "memoryTrick": "Intransigent = no transition in position",
+          "mastery": 0,
+          "group": 9
+        },
+        {
+          "word": "Intricate",
+          "meaning": "Having many complexly arranged elements",
+          "easyMeaning": "Detailed and complicated",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Complex",
+            "Elaborate",
+            "Detailed"
+          ],
+          "antonyms": [
+            "Simple",
+            "Plain",
+            "Basic"
+          ],
+          "gregmatSentence": "The painter's work of art reveals his ability to create intricate pictures of hometown life on canvas.",
+          "personalSentence": "",
+          "memoryTrick": "Intricate = inside tricky details",
+          "mastery": 0,
+          "group": 9
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "totalWords": 15,
+    "totalGroups": 1,
+    "positiveWords": 3,
+    "negativeWords": 8,
+    "neutralWords": 4,
+    "mixedWords": 0
+  }
+}

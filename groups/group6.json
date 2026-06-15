@@ -1,0 +1,377 @@
+{
+  "groups": [
+    {
+      "groupNumber": 6,
+      "words": [
+        {
+          "word": "Empirical",
+          "meaning": "Based on experiment and observation rather than theory",
+          "easyMeaning": "Based on real evidence",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Observed",
+            "Experimental",
+            "Evidence-based"
+          ],
+          "antonyms": [
+            "Theoretical",
+            "Speculative",
+            "Hypothetical"
+          ],
+          "gregmatSentence": "There is no empirical evidence to support his thesis.",
+          "personalSentence": "",
+          "memoryTrick": "Empirical = experience proves it",
+          "mastery": 0,
+          "group": 6
+        },
+        {
+          "word": "Enamored",
+          "meaning": "In love with a person or thing",
+          "easyMeaning": "Really liking or loving something",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Medium",
+          "greFrequency": "Medium",
+          "synonyms": [
+            "Infatuated",
+            "Charmed",
+            "Captivated"
+          ],
+          "antonyms": [
+            "Averse",
+            "Repelled",
+            "Disenchanted"
+          ],
+          "gregmatSentence": "She is truly enamored with Turkish delights.",
+          "personalSentence": "",
+          "memoryTrick": "Enamored = in amour, in love",
+          "mastery": 0,
+          "group": 6
+        },
+        {
+          "word": "Engrossing",
+          "meaning": "Taking all your attention because it is interesting",
+          "easyMeaning": "So interesting you forget everything else",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Absorbing",
+            "Compelling",
+            "Captivating"
+          ],
+          "antonyms": [
+            "Boring",
+            "Tedious",
+            "Dull"
+          ],
+          "gregmatSentence": "I find the Harry Potter series totally engrossing.",
+          "personalSentence": "",
+          "memoryTrick": "Engrossing = grows in your mind",
+          "mastery": 0,
+          "group": 6
+        },
+        {
+          "word": "Ephemeral",
+          "meaning": "Short-lived or temporary",
+          "easyMeaning": "Lasting only a short time",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Brief",
+            "Fleeting",
+            "Transitory"
+          ],
+          "antonyms": [
+            "Permanent",
+            "Enduring",
+            "Lasting"
+          ],
+          "gregmatSentence": "The thunderstorm was ephemeral, starting suddenly and gone within seconds.",
+          "personalSentence": "",
+          "memoryTrick": "Ephemeral = here for a mere moment",
+          "mastery": 0,
+          "group": 6
+        },
+        {
+          "word": "Epitomize",
+          "meaning": "To be a perfect example of something",
+          "easyMeaning": "To represent the best example",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Exemplify",
+            "Embody",
+            "Represent"
+          ],
+          "antonyms": [
+            "Contradict",
+            "Misrepresent",
+            "Oppose"
+          ],
+          "gregmatSentence": "Stressing one night before the exam epitomizes the struggles of university life.",
+          "personalSentence": "",
+          "memoryTrick": "Epitomize = top example",
+          "mastery": 0,
+          "group": 6
+        },
+        {
+          "word": "Equivocal",
+          "meaning": "Not clear or certain; doubtful or questionable",
+          "easyMeaning": "Unclear and hard to interpret",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Ambiguous",
+            "Unclear",
+            "Dubious"
+          ],
+          "antonyms": [
+            "Clear",
+            "Unequivocal",
+            "Definite"
+          ],
+          "gregmatSentence": "The mayor's response at the press conference was so equivocal no one knew where he stood on the issue.",
+          "personalSentence": "",
+          "memoryTrick": "Equivocal = equal voices say different things",
+          "mastery": 0,
+          "group": 6
+        },
+        {
+          "word": "Erratic",
+          "meaning": "Not regular in pattern or movement; unpredictable",
+          "easyMeaning": "All over the place",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Irregular",
+            "Unpredictable",
+            "Inconsistent"
+          ],
+          "antonyms": [
+            "Steady",
+            "Regular",
+            "Predictable"
+          ],
+          "gregmatSentence": "The cop pulled her over because of her erratic driving.",
+          "personalSentence": "",
+          "memoryTrick": "Erratic = error pattern",
+          "mastery": 0,
+          "group": 6
+        },
+        {
+          "word": "Erudite",
+          "meaning": "Having or showing profound knowledge",
+          "easyMeaning": "Very learned and knowledgeable",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Learned",
+            "Scholarly",
+            "Knowledgeable"
+          ],
+          "antonyms": [
+            "Ignorant",
+            "Uneducated",
+            "Illiterate"
+          ],
+          "gregmatSentence": "The literary scholar was so erudite no one dared talk to her.",
+          "personalSentence": "",
+          "memoryTrick": "Erudite = educated right",
+          "mastery": 0,
+          "group": 6
+        },
+        {
+          "word": "Eschew",
+          "meaning": "To avoid or stay away from deliberately",
+          "easyMeaning": "To choose not to do something",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Avoid",
+            "Shun",
+            "Abstain"
+          ],
+          "antonyms": [
+            "Embrace",
+            "Seek",
+            "Indulge"
+          ],
+          "gregmatSentence": "I eschew smoking because I know it's dangerous to my health.",
+          "personalSentence": "",
+          "memoryTrick": "Eschew = chew? no, avoid it",
+          "mastery": 0,
+          "group": 6
+        },
+        {
+          "word": "Esoteric",
+          "meaning": "Known or understood by very few people",
+          "easyMeaning": "Only a small expert group understands it",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Arcane",
+            "Obscure",
+            "Recondite"
+          ],
+          "antonyms": [
+            "Common",
+            "Accessible",
+            "Popular"
+          ],
+          "gregmatSentence": "The mystic had esoteric knowledge of the secrets of his religion.",
+          "personalSentence": "",
+          "memoryTrick": "Esoteric = secret inner circle",
+          "mastery": 0,
+          "group": 6
+        },
+        {
+          "word": "Exacerbate",
+          "meaning": "To make worse",
+          "easyMeaning": "To make a bad situation worse",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Worsen",
+            "Aggravate",
+            "Intensify"
+          ],
+          "antonyms": [
+            "Alleviate",
+            "Mitigate",
+            "Improve"
+          ],
+          "gregmatSentence": "Interfering in the already heated debate would further exacerbate the situation.",
+          "personalSentence": "",
+          "memoryTrick": "Exacerbate = extra bitter",
+          "mastery": 0,
+          "group": 6
+        },
+        {
+          "word": "Exaggerate",
+          "meaning": "To show something larger, better, or worse than it is",
+          "easyMeaning": "To overstate",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "Medium",
+          "synonyms": [
+            "Overstate",
+            "Embellish",
+            "Magnify"
+          ],
+          "antonyms": [
+            "Understate",
+            "Minimize",
+            "Downplay"
+          ],
+          "gregmatSentence": "He tends to exaggerate the difficulties.",
+          "personalSentence": "",
+          "memoryTrick": "Exaggerate = extra large",
+          "mastery": 0,
+          "group": 6
+        },
+        {
+          "word": "Exemplary",
+          "meaning": "So good that it is an example for others to follow",
+          "easyMeaning": "Excellent enough to copy",
+          "tone": "Positive",
+          "sentimentScore": 5,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Excellent",
+            "Model",
+            "Commendable"
+          ],
+          "antonyms": [
+            "Poor",
+            "Inferior",
+            "Unworthy"
+          ],
+          "gregmatSentence": "The soldier was rewarded for his exemplary service.",
+          "personalSentence": "",
+          "memoryTrick": "Exemplary = example-worthy",
+          "mastery": 0,
+          "group": 6
+        },
+        {
+          "word": "Exhaustive",
+          "meaning": "Including all aspects; complete",
+          "easyMeaning": "Covering everything",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Complete",
+            "Thorough",
+            "Comprehensive"
+          ],
+          "antonyms": [
+            "Partial",
+            "Incomplete",
+            "Cursory"
+          ],
+          "gregmatSentence": "She conducted an exhaustive study of the mating habits of elephants.",
+          "personalSentence": "",
+          "memoryTrick": "Exhaustive = exhaust every option",
+          "mastery": 0,
+          "group": 6
+        },
+        {
+          "word": "Exotic",
+          "meaning": "Foreign in character or origin; not native",
+          "easyMeaning": "Unusual because from another place",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Medium",
+          "greFrequency": "Medium",
+          "synonyms": [
+            "Foreign",
+            "Unusual",
+            "Strange"
+          ],
+          "antonyms": [
+            "Native",
+            "Familiar",
+            "Common"
+          ],
+          "gregmatSentence": "I have visited many exotic lands on my travels.",
+          "personalSentence": "",
+          "memoryTrick": "Exotic = exiting the local",
+          "mastery": 0,
+          "group": 6
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "totalWords": 15,
+    "totalGroups": 1,
+    "positiveWords": 7,
+    "negativeWords": 4,
+    "neutralWords": 4,
+    "mixedWords": 0
+  }
+}

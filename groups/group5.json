@@ -1,0 +1,377 @@
+{
+  "groups": [
+    {
+      "groupNumber": 5,
+      "words": [
+        {
+          "word": "Disparate",
+          "meaning": "Fundamentally different in kind or quality",
+          "easyMeaning": "Very different from each other",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Different",
+            "Dissimilar",
+            "Divergent"
+          ],
+          "antonyms": [
+            "Similar",
+            "Alike",
+            "Homogeneous"
+          ],
+          "gregmatSentence": "You can't compare both the vehicles; they have disparate features.",
+          "personalSentence": "",
+          "memoryTrick": "Disparate = separate things",
+          "mastery": 0,
+          "group": 5
+        },
+        {
+          "word": "Disseminate",
+          "meaning": "To spread widely, especially information",
+          "easyMeaning": "To spread information to many people",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Spread",
+            "Circulate",
+            "Propagate"
+          ],
+          "antonyms": [
+            "Suppress",
+            "Conceal",
+            "Withhold"
+          ],
+          "gregmatSentence": "The aim is to disseminate messages as widely as possible within a given community.",
+          "personalSentence": "",
+          "memoryTrick": "Disseminate = send seeds of info",
+          "mastery": 0,
+          "group": 5
+        },
+        {
+          "word": "Distort",
+          "meaning": "To mislead or give a false impression",
+          "easyMeaning": "To twist the truth or shape",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Twist",
+            "Misrepresent",
+            "Warp"
+          ],
+          "antonyms": [
+            "Clarify",
+            "Correct",
+            "Represent"
+          ],
+          "gregmatSentence": "She distorted the facts and made it look like the campaign had been successful.",
+          "personalSentence": "",
+          "memoryTrick": "Distort = twist out of shape",
+          "mastery": 0,
+          "group": 5
+        },
+        {
+          "word": "Diverse",
+          "meaning": "Different or showing a lot of variety",
+          "easyMeaning": "Having many different kinds",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Easy",
+          "greFrequency": "High",
+          "synonyms": [
+            "Varied",
+            "Different",
+            "Heterogeneous"
+          ],
+          "antonyms": [
+            "Uniform",
+            "Similar",
+            "Homogeneous"
+          ],
+          "gregmatSentence": "Our diverse student body includes individuals from different countries.",
+          "personalSentence": "",
+          "memoryTrick": "Diverse = many versions",
+          "mastery": 0,
+          "group": 5
+        },
+        {
+          "word": "Dubious",
+          "meaning": "Open to doubt or suspicion",
+          "easyMeaning": "Not sure something is true",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Doubtful",
+            "Questionable",
+            "Skeptical"
+          ],
+          "antonyms": [
+            "Certain",
+            "Trustworthy",
+            "Indubitable"
+          ],
+          "gregmatSentence": "He said the car was a great deal, but I was dubious and wanted to get a second opinion.",
+          "personalSentence": "",
+          "memoryTrick": "Dubious = doubt it",
+          "mastery": 0,
+          "group": 5
+        },
+        {
+          "word": "Duplicity",
+          "meaning": "Dishonest talk or behavior; double-dealing",
+          "easyMeaning": "Being fake or two-faced",
+          "tone": "Negative",
+          "sentimentScore": -5,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Deceit",
+            "Fraud",
+            "Double-dealing"
+          ],
+          "antonyms": [
+            "Honesty",
+            "Candor",
+            "Integrity"
+          ],
+          "gregmatSentence": "They were accused of duplicity in their dealings with both sides.",
+          "personalSentence": "",
+          "memoryTrick": "Duplicity = duplicate faces",
+          "mastery": 0,
+          "group": 5
+        },
+        {
+          "word": "Eccentric",
+          "meaning": "Unconventional, strange, or unusual",
+          "easyMeaning": "Odd in an interesting way",
+          "tone": "Mixed",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Unconventional",
+            "Quirky",
+            "Peculiar"
+          ],
+          "antonyms": [
+            "Conventional",
+            "Ordinary",
+            "Normal"
+          ],
+          "gregmatSentence": "Many artists are eccentric in their behavior.",
+          "personalSentence": "",
+          "memoryTrick": "Eccentric = off-center circle",
+          "mastery": 0,
+          "group": 5
+        },
+        {
+          "word": "Eclectic",
+          "meaning": "Drawn from a broad and diverse range of sources",
+          "easyMeaning": "Made from many different styles or ideas",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Varied",
+            "Diverse",
+            "Wide-ranging"
+          ],
+          "antonyms": [
+            "Narrow",
+            "Uniform",
+            "Single-minded"
+          ],
+          "gregmatSentence": "In Gerald's library you will find an eclectic mix of books because he will read just about anything.",
+          "personalSentence": "",
+          "memoryTrick": "Eclectic = collect from everywhere",
+          "mastery": 0,
+          "group": 5
+        },
+        {
+          "word": "Eclipse",
+          "meaning": "To block the view or importance of something else",
+          "easyMeaning": "To outshine or cover up",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Overshadow",
+            "Obscure",
+            "Outshine"
+          ],
+          "antonyms": [
+            "Reveal",
+            "Highlight",
+            "Expose"
+          ],
+          "gregmatSentence": "She is concerned that her sister's accomplishments will eclipse her own.",
+          "personalSentence": "",
+          "memoryTrick": "Eclipse = moon blocks sun",
+          "mastery": 0,
+          "group": 5
+        },
+        {
+          "word": "Edifying",
+          "meaning": "Instructive or beneficial, especially morally or spiritually",
+          "easyMeaning": "Teaching you something good",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Instructive",
+            "Enlightening",
+            "Improving"
+          ],
+          "antonyms": [
+            "Corrupting",
+            "Unhelpful",
+            "Degrading"
+          ],
+          "gregmatSentence": "I found reading the encyclopedia to be very edifying.",
+          "personalSentence": "",
+          "memoryTrick": "Edifying = education that builds",
+          "mastery": 0,
+          "group": 5
+        },
+        {
+          "word": "Egalitarian",
+          "meaning": "Favoring social equality",
+          "easyMeaning": "Believing everyone should be treated equally",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Equalitarian",
+            "Democratic",
+            "Fair"
+          ],
+          "antonyms": [
+            "Elitist",
+            "Hierarchical",
+            "Discriminatory"
+          ],
+          "gregmatSentence": "People have long dreamt of an egalitarian society.",
+          "personalSentence": "",
+          "memoryTrick": "Egalitarian = equalitarian",
+          "mastery": 0,
+          "group": 5
+        },
+        {
+          "word": "Elucidate",
+          "meaning": "To make something clear or explain it",
+          "easyMeaning": "To explain clearly",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Clarify",
+            "Explain",
+            "Illuminate"
+          ],
+          "antonyms": [
+            "Obscure",
+            "Confuse",
+            "Muddle"
+          ],
+          "gregmatSentence": "The aim of the report is to elucidate the main points of the new regulations.",
+          "personalSentence": "",
+          "memoryTrick": "Elucidate = add light",
+          "mastery": 0,
+          "group": 5
+        },
+        {
+          "word": "Elusive",
+          "meaning": "Difficult to find, catch, or achieve",
+          "easyMeaning": "Hard to catch or understand",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Evasive",
+            "Hard-to-find",
+            "Slippery"
+          ],
+          "antonyms": [
+            "Obvious",
+            "Accessible",
+            "Attainable"
+          ],
+          "gregmatSentence": "Peace becomes elusive in a house full of noisy children.",
+          "personalSentence": "",
+          "memoryTrick": "Elusive = eludes you",
+          "mastery": 0,
+          "group": 5
+        },
+        {
+          "word": "Embellish",
+          "meaning": "To make more attractive by adding ornament or detail",
+          "easyMeaning": "To decorate or make a story more exciting",
+          "tone": "Context-Dependent",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Decorate",
+            "Adorn",
+            "Exaggerate"
+          ],
+          "antonyms": [
+            "Strip",
+            "Simplify",
+            "Plain"
+          ],
+          "gregmatSentence": "I think she embellished her story to make it more exciting.",
+          "personalSentence": "",
+          "memoryTrick": "Embellish = add bells and beauty",
+          "mastery": 0,
+          "group": 5
+        },
+        {
+          "word": "Embrace",
+          "meaning": "To accept willingly or hold closely in one's arms",
+          "easyMeaning": "To accept or hug",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Easy",
+          "greFrequency": "High",
+          "synonyms": [
+            "Accept",
+            "Welcome",
+            "Adopt"
+          ],
+          "antonyms": [
+            "Reject",
+            "Shun",
+            "Resist"
+          ],
+          "gregmatSentence": "She embraced me warmly when I arrived.",
+          "personalSentence": "",
+          "memoryTrick": "Embrace = bring into your arms",
+          "mastery": 0,
+          "group": 5
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "totalWords": 15,
+    "totalGroups": 1,
+    "positiveWords": 6,
+    "negativeWords": 4,
+    "neutralWords": 3,
+    "mixedWords": 2
+  }
+}

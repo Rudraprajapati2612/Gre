@@ -1,0 +1,377 @@
+{
+  "groups": [
+    {
+      "groupNumber": 7,
+      "words": [
+        {
+          "word": "Expedient",
+          "meaning": "Useful for achieving a goal, but not necessarily moral",
+          "easyMeaning": "Convenient but possibly wrong",
+          "tone": "Mixed",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Convenient",
+            "Practical",
+            "Opportune"
+          ],
+          "antonyms": [
+            "Inconvenient",
+            "Principled",
+            "Impractical"
+          ],
+          "gregmatSentence": "An expedient solution for getting good grades without studying is to cheat.",
+          "personalSentence": "",
+          "memoryTrick": "Expedient = speedy end",
+          "mastery": 0,
+          "group": 7
+        },
+        {
+          "word": "Expeditious",
+          "meaning": "Done with speed and efficiency",
+          "easyMeaning": "Fast and efficient",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Swift",
+            "Efficient",
+            "Prompt"
+          ],
+          "antonyms": [
+            "Slow",
+            "Dilatory",
+            "Inefficient"
+          ],
+          "gregmatSentence": "Everybody expects a pizza delivery boy to be expeditious.",
+          "personalSentence": "",
+          "memoryTrick": "Expeditious = expedition done fast",
+          "mastery": 0,
+          "group": 7
+        },
+        {
+          "word": "Extraneous",
+          "meaning": "Irrelevant or unrelated",
+          "easyMeaning": "Extra and not needed",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Irrelevant",
+            "Unrelated",
+            "Superfluous"
+          ],
+          "antonyms": [
+            "Relevant",
+            "Essential",
+            "Germane"
+          ],
+          "gregmatSentence": "I tried to keep all extraneous matters out of my mind when I focused on my work.",
+          "personalSentence": "",
+          "memoryTrick": "Extraneous = extra is not needed",
+          "mastery": 0,
+          "group": 7
+        },
+        {
+          "word": "Fecund",
+          "meaning": "Intellectually productive or inventive",
+          "easyMeaning": "Full of creative ideas",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Fertile",
+            "Productive",
+            "Inventive"
+          ],
+          "antonyms": [
+            "Barren",
+            "Unproductive",
+            "Sterile"
+          ],
+          "gregmatSentence": "He is a fecund young scientist with so many inventions.",
+          "personalSentence": "",
+          "memoryTrick": "Fecund = fertile mind",
+          "mastery": 0,
+          "group": 7
+        },
+        {
+          "word": "Flout",
+          "meaning": "To intentionally disobey a rule or law",
+          "easyMeaning": "To openly break a rule",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Defy",
+            "Disobey",
+            "Scorn"
+          ],
+          "antonyms": [
+            "Obey",
+            "Respect",
+            "Observe"
+          ],
+          "gregmatSentence": "Many motorcyclists flout the law by not wearing helmets.",
+          "personalSentence": "",
+          "memoryTrick": "Flout = flaunt disobedience",
+          "mastery": 0,
+          "group": 7
+        },
+        {
+          "word": "Forbearance",
+          "meaning": "Patient self-control or tolerance",
+          "easyMeaning": "Patience when annoyed or suffering",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Patience",
+            "Tolerance",
+            "Restraint"
+          ],
+          "antonyms": [
+            "Impatience",
+            "Intolerance",
+            "Irritability"
+          ],
+          "gregmatSentence": "The teacher exhibited great forbearance when the children started misbehaving in class.",
+          "personalSentence": "",
+          "memoryTrick": "Forbearance = bear with it",
+          "mastery": 0,
+          "group": 7
+        },
+        {
+          "word": "Forestall",
+          "meaning": "To act in advance to prevent something",
+          "easyMeaning": "To prevent before it happens",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Prevent",
+            "Preempt",
+            "Avert"
+          ],
+          "antonyms": [
+            "Allow",
+            "Cause",
+            "Permit"
+          ],
+          "gregmatSentence": "Sarah was able to talk to the two colleagues and forestall a fight.",
+          "personalSentence": "",
+          "memoryTrick": "Forestall = stall before",
+          "mastery": 0,
+          "group": 7
+        },
+        {
+          "word": "Formidable",
+          "meaning": "Causing fear or very difficult to defeat",
+          "easyMeaning": "Very powerful or hard to beat",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Daunting",
+            "Intimidating",
+            "Impressive"
+          ],
+          "antonyms": [
+            "Weak",
+            "Easy",
+            "Harmless"
+          ],
+          "gregmatSentence": "The boxer knew his opponent would be formidable and trained extra hard.",
+          "personalSentence": "",
+          "memoryTrick": "Formidable = fearsome form",
+          "mastery": 0,
+          "group": 7
+        },
+        {
+          "word": "Forthright",
+          "meaning": "Direct and outspoken",
+          "easyMeaning": "Honest and direct",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Direct",
+            "Candid",
+            "Frank"
+          ],
+          "antonyms": [
+            "Evasive",
+            "Indirect",
+            "Deceptive"
+          ],
+          "gregmatSentence": "The child was forthright and admitted his guilt.",
+          "personalSentence": "",
+          "memoryTrick": "Forthright = go forth right to the point",
+          "mastery": 0,
+          "group": 7
+        },
+        {
+          "word": "Fortuitous",
+          "meaning": "Occurring by happy chance",
+          "easyMeaning": "Lucky by accident",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Lucky",
+            "Chance",
+            "Serendipitous"
+          ],
+          "antonyms": [
+            "Planned",
+            "Unlucky",
+            "Deliberate"
+          ],
+          "gregmatSentence": "The arrival of the taxi was fortuitous because I was just about to call one.",
+          "personalSentence": "",
+          "memoryTrick": "Fortuitous = fortunate accident",
+          "mastery": 0,
+          "group": 7
+        },
+        {
+          "word": "Foster",
+          "meaning": "To encourage or promote something",
+          "easyMeaning": "To help something grow",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Encourage",
+            "Promote",
+            "Nurture"
+          ],
+          "antonyms": [
+            "Discourage",
+            "Suppress",
+            "Hinder"
+          ],
+          "gregmatSentence": "In order to foster good values in students, we must show them good examples.",
+          "personalSentence": "",
+          "memoryTrick": "Foster = foster parent helps growth",
+          "mastery": 0,
+          "group": 7
+        },
+        {
+          "word": "Fragile",
+          "meaning": "Easily broken, damaged, or destroyed",
+          "easyMeaning": "Easy to break",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Easy",
+          "greFrequency": "Medium",
+          "synonyms": [
+            "Delicate",
+            "Brittle",
+            "Frail"
+          ],
+          "antonyms": [
+            "Strong",
+            "Durable",
+            "Sturdy"
+          ],
+          "gregmatSentence": "That's a fragile vase, please be careful.",
+          "personalSentence": "",
+          "memoryTrick": "Fragile = fracture easily",
+          "mastery": 0,
+          "group": 7
+        },
+        {
+          "word": "Fraught",
+          "meaning": "Marked by distress, difficulty, or danger",
+          "easyMeaning": "Full of problems or danger",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Full",
+            "Loaded",
+            "Troubled"
+          ],
+          "antonyms": [
+            "Free",
+            "Calm",
+            "Untroubled"
+          ],
+          "gregmatSentence": "Their marriage has been fraught with difficulties.",
+          "personalSentence": "",
+          "memoryTrick": "Fraught = full of fright",
+          "mastery": 0,
+          "group": 7
+        },
+        {
+          "word": "Gauge",
+          "meaning": "To estimate or measure",
+          "easyMeaning": "To measure or judge",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Measure",
+            "Assess",
+            "Estimate"
+          ],
+          "antonyms": [
+            "Ignore",
+            "Guess blindly",
+            "Misjudge"
+          ],
+          "gregmatSentence": "It's hard to gauge how bad the weather will be tomorrow.",
+          "personalSentence": "",
+          "memoryTrick": "Gauge = measuring gauge",
+          "mastery": 0,
+          "group": 7
+        },
+        {
+          "word": "Germane",
+          "meaning": "Relevant and appropriate",
+          "easyMeaning": "Related to the topic",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Relevant",
+            "Pertinent",
+            "Applicable"
+          ],
+          "antonyms": [
+            "Irrelevant",
+            "Extraneous",
+            "Unrelated"
+          ],
+          "gregmatSentence": "I will only take questions that are germane to the topic.",
+          "personalSentence": "",
+          "memoryTrick": "Germane = germanely connected",
+          "mastery": 0,
+          "group": 7
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "totalWords": 15,
+    "totalGroups": 1,
+    "positiveWords": 8,
+    "negativeWords": 5,
+    "neutralWords": 1,
+    "mixedWords": 1
+  }
+}

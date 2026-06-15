@@ -1,0 +1,377 @@
+{
+  "groups": [
+    {
+      "groupNumber": 15,
+      "words": [
+        {
+          "word": "Superfluous",
+          "meaning": "Unnecessary, extra, or more than enough",
+          "easyMeaning": "Extra and not needed",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Unnecessary",
+            "Excessive",
+            "Redundant"
+          ],
+          "antonyms": [
+            "Necessary",
+            "Essential",
+            "Indispensable"
+          ],
+          "gregmatSentence": "The editor wisely cut all superfluous remarks.",
+          "personalSentence": "",
+          "memoryTrick": "Superfluous = surplus flow",
+          "mastery": 0,
+          "group": 15
+        },
+        {
+          "word": "Supplant",
+          "meaning": "To replace or supersede",
+          "easyMeaning": "To take the place of",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Replace",
+            "Supersede",
+            "Displace"
+          ],
+          "antonyms": [
+            "Preserve",
+            "Retain",
+            "Keep"
+          ],
+          "gregmatSentence": "In the future autonomous cars will supplant all taxi drivers.",
+          "personalSentence": "",
+          "memoryTrick": "Supplant = plant yourself in another's spot",
+          "mastery": 0,
+          "group": 15
+        },
+        {
+          "word": "Suppress",
+          "meaning": "To forcefully put an end to or push down",
+          "easyMeaning": "To hold back or crush",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Quell",
+            "Subdue",
+            "Stifle"
+          ],
+          "antonyms": [
+            "Encourage",
+            "Release",
+            "Express"
+          ],
+          "gregmatSentence": "I managed to suppress my feelings of anger until I left the room.",
+          "personalSentence": "",
+          "memoryTrick": "Suppress = press down",
+          "mastery": 0,
+          "group": 15
+        },
+        {
+          "word": "Surreptitious",
+          "meaning": "Done secretly without anyone seeing or knowing",
+          "easyMeaning": "Secret and sneaky",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Secret",
+            "Stealthy",
+            "Clandestine"
+          ],
+          "antonyms": [
+            "Open",
+            "Overt",
+            "Public"
+          ],
+          "gregmatSentence": "He surreptitiously snuck back into his bedroom through the window.",
+          "personalSentence": "",
+          "memoryTrick": "Surreptitious = secretitious",
+          "mastery": 0,
+          "group": 15
+        },
+        {
+          "word": "Susceptible",
+          "meaning": "Likely to be influenced or harmed by something",
+          "easyMeaning": "Vulnerable to something",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Vulnerable",
+            "Prone",
+            "Liable"
+          ],
+          "antonyms": [
+            "Impervious",
+            "Resistant",
+            "Immune"
+          ],
+          "gregmatSentence": "Most people are susceptible to heat stroke.",
+          "personalSentence": "",
+          "memoryTrick": "Susceptible = can be affected",
+          "mastery": 0,
+          "group": 15
+        },
+        {
+          "word": "Tedious",
+          "meaning": "Long, dull, tiresome, and boring",
+          "easyMeaning": "Boring and tiring",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Boring",
+            "Monotonous",
+            "Wearisome"
+          ],
+          "antonyms": [
+            "Exciting",
+            "Engaging",
+            "Lively"
+          ],
+          "gregmatSentence": "It was a long tedious drive through hundreds of miles of featureless desert.",
+          "personalSentence": "",
+          "memoryTrick": "Tedious = too tedious to do",
+          "mastery": 0,
+          "group": 15
+        },
+        {
+          "word": "Tenacity",
+          "meaning": "Determination and persistence",
+          "easyMeaning": "Not giving up",
+          "tone": "Positive",
+          "sentimentScore": 5,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Persistence",
+            "Determination",
+            "Perseverance"
+          ],
+          "antonyms": [
+            "Weakness",
+            "Surrender",
+            "Inconstancy"
+          ],
+          "gregmatSentence": "He worked at the problem with great tenacity and after a week he had solved it.",
+          "personalSentence": "",
+          "memoryTrick": "Tenacity = hold with ten claws",
+          "mastery": 0,
+          "group": 15
+        },
+        {
+          "word": "Tendentious",
+          "meaning": "Supporting a controversial opinion or bias",
+          "easyMeaning": "Biased toward one side",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Biased",
+            "Partisan",
+            "Prejudiced"
+          ],
+          "antonyms": [
+            "Neutral",
+            "Impartial",
+            "Objective"
+          ],
+          "gregmatSentence": "He pretended to be neutral but his books were always tendentious.",
+          "personalSentence": "",
+          "memoryTrick": "Tendentious = tendency toward one side",
+          "mastery": 0,
+          "group": 15
+        },
+        {
+          "word": "Tenuous",
+          "meaning": "Weak, unimportant, or doubtful",
+          "easyMeaning": "Weak and not solid",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Weak",
+            "Flimsy",
+            "Unsubstantial"
+          ],
+          "antonyms": [
+            "Strong",
+            "Substantial",
+            "Solid"
+          ],
+          "gregmatSentence": "He has only a tenuous hold on the facts and cannot be trusted.",
+          "personalSentence": "",
+          "memoryTrick": "Tenuous = thin like tissue",
+          "mastery": 0,
+          "group": 15
+        },
+        {
+          "word": "Tepid",
+          "meaning": "Moderately warm or showing little enthusiasm",
+          "easyMeaning": "Lukewarm or not excited",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Lukewarm",
+            "Unenthusiastic",
+            "Halfhearted"
+          ],
+          "antonyms": [
+            "Hot",
+            "Enthusiastic",
+            "Eager"
+          ],
+          "gregmatSentence": "I only had a tepid interest in the conversation and left as soon as I could.",
+          "personalSentence": "",
+          "memoryTrick": "Tepid = tea only a little warm",
+          "mastery": 0,
+          "group": 15
+        },
+        {
+          "word": "Timid",
+          "meaning": "Showing fear or lack of confidence",
+          "easyMeaning": "Shy and afraid",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Easy",
+          "greFrequency": "High",
+          "synonyms": [
+            "Shy",
+            "Fearful",
+            "Diffident"
+          ],
+          "antonyms": [
+            "Bold",
+            "Confident",
+            "Brave"
+          ],
+          "gregmatSentence": "At first he was timid in the new school but he quickly gained friends and confidence.",
+          "personalSentence": "",
+          "memoryTrick": "Timid = tiny courage",
+          "mastery": 0,
+          "group": 15
+        },
+        {
+          "word": "Transcend",
+          "meaning": "To go beyond the standard limit or rise above something",
+          "easyMeaning": "To rise above a limit",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Surpass",
+            "Exceed",
+            "Rise above"
+          ],
+          "antonyms": [
+            "Fall short",
+            "Remain within",
+            "Submit"
+          ],
+          "gregmatSentence": "Sometimes we need to transcend our self-interest for a greater cause.",
+          "personalSentence": "",
+          "memoryTrick": "Transcend = climb across the ceiling",
+          "mastery": 0,
+          "group": 15
+        },
+        {
+          "word": "Transitory",
+          "meaning": "Not permanent; passing quickly",
+          "easyMeaning": "Temporary",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Temporary",
+            "Fleeting",
+            "Ephemeral"
+          ],
+          "antonyms": [
+            "Permanent",
+            "Lasting",
+            "Enduring"
+          ],
+          "gregmatSentence": "After a transitory storm, the weather went back to sunny and warm.",
+          "personalSentence": "",
+          "memoryTrick": "Transitory = in transit, passing through",
+          "mastery": 0,
+          "group": 15
+        },
+        {
+          "word": "Trenchant",
+          "meaning": "Insightful, clear, sharp, or deep",
+          "easyMeaning": "Sharp and insightful",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Sharp",
+            "Incisive",
+            "Penetrating"
+          ],
+          "antonyms": [
+            "Dull",
+            "Vague",
+            "Superficial"
+          ],
+          "gregmatSentence": "She had several trenchant insights into the problem which helped us see things more clearly.",
+          "personalSentence": "",
+          "memoryTrick": "Trenchant = trench-deep insight",
+          "mastery": 0,
+          "group": 15
+        },
+        {
+          "word": "Trepidation",
+          "meaning": "Fear about something unpleasant that might happen",
+          "easyMeaning": "Nervous fear about the future",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Fear",
+            "Anxiety",
+            "Apprehension"
+          ],
+          "antonyms": [
+            "Confidence",
+            "Calm",
+            "Assurance"
+          ],
+          "gregmatSentence": "I walked into the classroom with trepidation knowing the test would be hard.",
+          "personalSentence": "",
+          "memoryTrick": "Trepidation = trembling anticipation",
+          "mastery": 0,
+          "group": 15
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "totalWords": 15,
+    "totalGroups": 1,
+    "positiveWords": 3,
+    "negativeWords": 10,
+    "neutralWords": 2,
+    "mixedWords": 0
+  }
+}

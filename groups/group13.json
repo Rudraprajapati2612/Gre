@@ -1,0 +1,377 @@
+{
+  "groups": [
+    {
+      "groupNumber": 13,
+      "words": [
+        {
+          "word": "Presage",
+          "meaning": "To indicate or show a future event",
+          "easyMeaning": "To be a sign of what will happen",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Foreshadow",
+            "Portend",
+            "Foretell"
+          ],
+          "antonyms": [
+            "Recall",
+            "Ignore",
+            "Follow"
+          ],
+          "gregmatSentence": "According to the psychic, the cards presage an upcoming tragedy in my life.",
+          "personalSentence": "",
+          "memoryTrick": "Presage = pre-message",
+          "mastery": 0,
+          "group": 13
+        },
+        {
+          "word": "Prescient",
+          "meaning": "Having or showing knowledge of events before they happen",
+          "easyMeaning": "Knowing what will happen before it does",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Prophetic",
+            "Foreseeing",
+            "Visionary"
+          ],
+          "antonyms": [
+            "Oblivious",
+            "Shortsighted",
+            "Unaware"
+          ],
+          "gregmatSentence": "The psychic's predictions were uncannily prescient and ended up proving true a few weeks later.",
+          "personalSentence": "",
+          "memoryTrick": "Prescient = pre-science of future",
+          "mastery": 0,
+          "group": 13
+        },
+        {
+          "word": "Prevalent",
+          "meaning": "Very common or frequent",
+          "easyMeaning": "Commonly found",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Common",
+            "Widespread",
+            "Pervasive"
+          ],
+          "antonyms": [
+            "Rare",
+            "Uncommon",
+            "Scarce"
+          ],
+          "gregmatSentence": "During the holidays theft becomes more prevalent in low-income areas.",
+          "personalSentence": "",
+          "memoryTrick": "Prevalent = prevails everywhere",
+          "mastery": 0,
+          "group": 13
+        },
+        {
+          "word": "Primitive",
+          "meaning": "Belonging to the early stages of development or civilization",
+          "easyMeaning": "Basic and early",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Basic",
+            "Early",
+            "Rudimentary"
+          ],
+          "antonyms": [
+            "Advanced",
+            "Modern",
+            "Sophisticated"
+          ],
+          "gregmatSentence": "His first few drawings were quite primitive but he improved quickly.",
+          "personalSentence": "",
+          "memoryTrick": "Primitive = prime first version",
+          "mastery": 0,
+          "group": 13
+        },
+        {
+          "word": "Pristine",
+          "meaning": "Clean, unused, unspoiled, or original",
+          "easyMeaning": "Perfectly clean and fresh",
+          "tone": "Positive",
+          "sentimentScore": 5,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Unspoiled",
+            "Spotless",
+            "Immaculate"
+          ],
+          "antonyms": [
+            "Dirty",
+            "Spoiled",
+            "Tarnished"
+          ],
+          "gregmatSentence": "My uncle's antique car is pristine and has all its original parts.",
+          "personalSentence": "",
+          "memoryTrick": "Pristine = pure and clean",
+          "mastery": 0,
+          "group": 13
+        },
+        {
+          "word": "Prosaic",
+          "meaning": "Dull, unimaginative, and lacking excitement",
+          "easyMeaning": "Plain and boring",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Dull",
+            "Mundane",
+            "Pedestrian"
+          ],
+          "antonyms": [
+            "Imaginative",
+            "Poetic",
+            "Exciting"
+          ],
+          "gregmatSentence": "The first few songs she wrote were prosaic, but she quickly improved.",
+          "personalSentence": "",
+          "memoryTrick": "Prosaic = plain prose, no poetry",
+          "mastery": 0,
+          "group": 13
+        },
+        {
+          "word": "Proscribe",
+          "meaning": "To forbid, especially by law",
+          "easyMeaning": "To ban officially",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Forbid",
+            "Ban",
+            "Prohibit"
+          ],
+          "antonyms": [
+            "Allow",
+            "Permit",
+            "Prescribe"
+          ],
+          "gregmatSentence": "Most states have laws that proscribe texting while driving.",
+          "personalSentence": "",
+          "memoryTrick": "Proscribe = prohibit script",
+          "mastery": 0,
+          "group": 13
+        },
+        {
+          "word": "Protean",
+          "meaning": "Able to do many different things; versatile and changeable",
+          "easyMeaning": "Flexible and able to change forms",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Versatile",
+            "Adaptable",
+            "Changeable"
+          ],
+          "antonyms": [
+            "Rigid",
+            "Limited",
+            "Inflexible"
+          ],
+          "gregmatSentence": "Leonardo da Vinci was a protean figure during the Renaissance.",
+          "personalSentence": "",
+          "memoryTrick": "Protean = protein can take many forms",
+          "mastery": 0,
+          "group": 13
+        },
+        {
+          "word": "Protract",
+          "meaning": "To prolong or make something longer",
+          "easyMeaning": "To stretch something out",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Prolong",
+            "Extend",
+            "Lengthen"
+          ],
+          "antonyms": [
+            "Shorten",
+            "Abbreviate",
+            "Curtail"
+          ],
+          "gregmatSentence": "The meeting was so protracted that many people got up and left.",
+          "personalSentence": "",
+          "memoryTrick": "Protract = pull out the track",
+          "mastery": 0,
+          "group": 13
+        },
+        {
+          "word": "Prudent",
+          "meaning": "Showing good judgment in avoiding risks",
+          "easyMeaning": "Wise and careful",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Wise",
+            "Careful",
+            "Judicious"
+          ],
+          "antonyms": [
+            "Reckless",
+            "Rash",
+            "Imprudent"
+          ],
+          "gregmatSentence": "It would be prudent to save some money for the future.",
+          "personalSentence": "",
+          "memoryTrick": "Prudent = prudent parent plans",
+          "mastery": 0,
+          "group": 13
+        },
+        {
+          "word": "Punctilious",
+          "meaning": "Very careful about correct behavior or details",
+          "easyMeaning": "Extremely careful about rules and details",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Meticulous",
+            "Scrupulous",
+            "Precise"
+          ],
+          "antonyms": [
+            "Careless",
+            "Sloppy",
+            "Negligent"
+          ],
+          "gregmatSentence": "The servant was always punctilious and pleased his master.",
+          "personalSentence": "",
+          "memoryTrick": "Punctilious = punctual about tiny points",
+          "mastery": 0,
+          "group": 13
+        },
+        {
+          "word": "Quixotic",
+          "meaning": "Impractical or unrealistic, especially idealistic",
+          "easyMeaning": "Dreamy but unrealistic",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Idealistic",
+            "Impractical",
+            "Unrealistic"
+          ],
+          "antonyms": [
+            "Practical",
+            "Pragmatic",
+            "Realistic"
+          ],
+          "gregmatSentence": "He has a rather quixotic notion of ending world hunger.",
+          "personalSentence": "",
+          "memoryTrick": "Quixotic = Don Quixote chasing windmills",
+          "mastery": 0,
+          "group": 13
+        },
+        {
+          "word": "Rancor",
+          "meaning": "A feeling of hate and continuing anger",
+          "easyMeaning": "Long-lasting bitterness",
+          "tone": "Negative",
+          "sentimentScore": -5,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Bitterness",
+            "Resentment",
+            "Animosity"
+          ],
+          "antonyms": [
+            "Goodwill",
+            "Harmony",
+            "Affection"
+          ],
+          "gregmatSentence": "There was always an air of rancor at their house since nobody got along.",
+          "personalSentence": "",
+          "memoryTrick": "Rancor = rank anger",
+          "mastery": 0,
+          "group": 13
+        },
+        {
+          "word": "Recalcitrant",
+          "meaning": "Stubbornly resistant to authority or control",
+          "easyMeaning": "Stubborn and hard to control",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Defiant",
+            "Obstinate",
+            "Unruly"
+          ],
+          "antonyms": [
+            "Obedient",
+            "Compliant",
+            "Docile"
+          ],
+          "gregmatSentence": "The babysitter dreaded going to that house because of the recalcitrant children.",
+          "personalSentence": "",
+          "memoryTrick": "Recalcitrant = refuses to calculate rules",
+          "mastery": 0,
+          "group": 13
+        },
+        {
+          "word": "Recapitulate",
+          "meaning": "To summarize or state again the main points",
+          "easyMeaning": "To recap",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "Medium",
+          "synonyms": [
+            "Summarize",
+            "Review",
+            "Restate"
+          ],
+          "antonyms": [
+            "Expand",
+            "Elaborate",
+            "Continue"
+          ],
+          "gregmatSentence": "At the end of his lectures he always recapitulates the important takeaways.",
+          "personalSentence": "",
+          "memoryTrick": "Recapitulate = recap it",
+          "mastery": 0,
+          "group": 13
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "totalWords": 15,
+    "totalGroups": 1,
+    "positiveWords": 5,
+    "negativeWords": 6,
+    "neutralWords": 4,
+    "mixedWords": 0
+  }
+}

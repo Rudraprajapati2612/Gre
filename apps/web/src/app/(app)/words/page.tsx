@@ -6,9 +6,12 @@ import { Search, Check, ListChecks, Loader2, Plus } from 'lucide-react'
 import { useQuery, useMutation, useQueryClient } from '@tanstack/react-query'
 import { apiWords, apiLearnBatch } from '@/lib/api'
 import { ToneChip } from '@/components/ToneChip'
+import { MountainView } from '@/components/MountainView'
 import type { WordStatus } from '@/lib/types'
 import { Suspense } from 'react'
 import Link from 'next/link'
+
+type Tab = 'library' | 'mountain'
 
 const STATUS_FILTERS: { label: string; value: WordStatus | 'all' }[] = [
   { label: 'All', value: 'all' },
@@ -25,7 +28,7 @@ const STATUS_DOT: Record<WordStatus, string> = {
   mastered: 'bg-success',
 }
 
-function WordsContent() {
+function LibraryView() {
   const searchParams = useSearchParams()
   const router = useRouter()
   const qc = useQueryClient()
@@ -71,7 +74,7 @@ function WordsContent() {
   const words = data?.words ?? []
 
   return (
-    <div className="max-w-2xl mx-auto space-y-4 animate-in fade-in duration-500 pb-28">
+    <div className="space-y-4 pb-28">
       {/* Search + select toggle */}
       <div className="sticky top-0 z-10 bg-bg pt-1 pb-4 space-y-3">
         <div className="flex items-center gap-2">
@@ -189,6 +192,51 @@ function WordsContent() {
           </button>
         </div>
       )}
+    </div>
+  )
+}
+
+function WordsContent() {
+  const searchParams = useSearchParams()
+  const router = useRouter()
+  const [activeTab, setActiveTab] = useState<Tab>(
+    (searchParams.get('tab') as Tab) ?? 'library'
+  )
+
+  const switchTab = (tab: Tab) => {
+    setActiveTab(tab)
+    const url = new URL(window.location.href)
+    url.searchParams.set('tab', tab)
+    router.replace(url.pathname + url.search, { scroll: false })
+  }
+
+  return (
+    <div className="max-w-2xl mx-auto">
+      {/* Segmented control */}
+      <div className="flex bg-surface-muted rounded-xl p-1 mb-5 border border-border">
+        <button
+          onClick={() => switchTab('library')}
+          className={`flex-1 py-2 text-sm font-medium rounded-[10px] transition-all duration-150 ${
+            activeTab === 'library'
+              ? 'bg-surface text-ink shadow-sm'
+              : 'text-ink-soft hover:text-ink'
+          }`}
+        >
+          Library
+        </button>
+        <button
+          onClick={() => switchTab('mountain')}
+          className={`flex-1 py-2 text-sm font-medium rounded-[10px] transition-all duration-150 ${
+            activeTab === 'mountain'
+              ? 'bg-surface text-ink shadow-sm'
+              : 'text-ink-soft hover:text-ink'
+          }`}
+        >
+          Mountain
+        </button>
+      </div>
+
+      {activeTab === 'library' ? <LibraryView /> : <MountainView />}
     </div>
   )
 }

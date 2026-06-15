@@ -1,0 +1,377 @@
+{
+  "groups": [
+    {
+      "groupNumber": 11,
+      "words": [
+        {
+          "word": "Naive",
+          "meaning": "Lacking sophistication, experience, wisdom, or judgment",
+          "easyMeaning": "Innocent because of little experience",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Inexperienced",
+            "Ingenuous",
+            "Unsophisticated"
+          ],
+          "antonyms": [
+            "Worldly",
+            "Sophisticated",
+            "Experienced"
+          ],
+          "gregmatSentence": "The naivety of the new teacher was obvious to all the students who took full advantage.",
+          "personalSentence": "",
+          "memoryTrick": "Naive = new to life",
+          "mastery": 0,
+          "group": 11
+        },
+        {
+          "word": "Nebulous",
+          "meaning": "Not clear; vague or ill-defined",
+          "easyMeaning": "Unclear and fuzzy",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Vague",
+            "Unclear",
+            "Indistinct"
+          ],
+          "antonyms": [
+            "Clear",
+            "Definite",
+            "Precise"
+          ],
+          "gregmatSentence": "He has a few nebulous ideas about what he might like to do in the future, but nothing definite.",
+          "personalSentence": "",
+          "memoryTrick": "Nebulous = like a cloudy nebula",
+          "mastery": 0,
+          "group": 11
+        },
+        {
+          "word": "Noisome",
+          "meaning": "Having an extremely unpleasant smell",
+          "easyMeaning": "Very smelly and disgusting",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Foul",
+            "Stinking",
+            "Malodorous"
+          ],
+          "antonyms": [
+            "Fragrant",
+            "Pleasant",
+            "Aromatic"
+          ],
+          "gregmatSentence": "The garbage had been left out for days, filling the alley with a noisome stench.",
+          "personalSentence": "",
+          "memoryTrick": "Noisome = nose says no",
+          "mastery": 0,
+          "group": 11
+        },
+        {
+          "word": "Obscure",
+          "meaning": "To make less visible or unclear",
+          "easyMeaning": "To hide or make hard to see",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Conceal",
+            "Hide",
+            "Cloud"
+          ],
+          "antonyms": [
+            "Reveal",
+            "Clarify",
+            "Illuminate"
+          ],
+          "gregmatSentence": "Don't let her rude manner obscure your appreciation of her brilliance.",
+          "personalSentence": "",
+          "memoryTrick": "Obscure = cover securely",
+          "mastery": 0,
+          "group": 11
+        },
+        {
+          "word": "Obviate",
+          "meaning": "To prevent the occurrence of something",
+          "easyMeaning": "To prevent the need for something",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Prevent",
+            "Avert",
+            "Preclude"
+          ],
+          "antonyms": [
+            "Cause",
+            "Allow",
+            "Necessitate"
+          ],
+          "gregmatSentence": "The new safety measures were meant to obviate the need for further inspections.",
+          "personalSentence": "",
+          "memoryTrick": "Obviate = obvious prevention",
+          "mastery": 0,
+          "group": 11
+        },
+        {
+          "word": "Ominous",
+          "meaning": "Giving the impression that something bad will happen",
+          "easyMeaning": "Warning that something bad is coming",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Threatening",
+            "Menacing",
+            "Foreboding"
+          ],
+          "antonyms": [
+            "Promising",
+            "Hopeful",
+            "Auspicious"
+          ],
+          "gregmatSentence": "There was an ominous silence in the house.",
+          "personalSentence": "",
+          "memoryTrick": "Ominous = bad omen",
+          "mastery": 0,
+          "group": 11
+        },
+        {
+          "word": "Onerous",
+          "meaning": "Involving great effort, trouble, or difficulty",
+          "easyMeaning": "Difficult and burdensome",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Burdensome",
+            "Difficult",
+            "Arduous"
+          ],
+          "antonyms": [
+            "Easy",
+            "Light",
+            "Effortless"
+          ],
+          "gregmatSentence": "He had the onerous task of cleaning out the stables.",
+          "personalSentence": "",
+          "memoryTrick": "Onerous = on us, heavy burden",
+          "mastery": 0,
+          "group": 11
+        },
+        {
+          "word": "Orthodox",
+          "meaning": "Adhering to what is commonly accepted",
+          "easyMeaning": "Following the usual accepted way",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Conventional",
+            "Traditional",
+            "Accepted"
+          ],
+          "antonyms": [
+            "Unorthodox",
+            "Radical",
+            "Heretical"
+          ],
+          "gregmatSentence": "His methods are not orthodox, but they get the job done.",
+          "personalSentence": "",
+          "memoryTrick": "Orthodox = official doctrine",
+          "mastery": 0,
+          "group": 11
+        },
+        {
+          "word": "Outmoded",
+          "meaning": "Out of fashion or outdated",
+          "easyMeaning": "Old-fashioned",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Outdated",
+            "Obsolete",
+            "Antiquated"
+          ],
+          "antonyms": [
+            "Modern",
+            "Current",
+            "Fashionable"
+          ],
+          "gregmatSentence": "Her overly formal way of talking to people is outmoded.",
+          "personalSentence": "",
+          "memoryTrick": "Outmoded = out of modern mode",
+          "mastery": 0,
+          "group": 11
+        },
+        {
+          "word": "Paradigm",
+          "meaning": "A generally accepted perspective or framework",
+          "easyMeaning": "A model or way of seeing something",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Model",
+            "Framework",
+            "Pattern"
+          ],
+          "antonyms": [
+            "Anomaly",
+            "Exception",
+            "Deviation"
+          ],
+          "gregmatSentence": "We need to look at the problem within a new paradigm to find a solution.",
+          "personalSentence": "",
+          "memoryTrick": "Paradigm = pattern diagram",
+          "mastery": 0,
+          "group": 11
+        },
+        {
+          "word": "Paradox",
+          "meaning": "A statement or situation that contradicts itself or seems to",
+          "easyMeaning": "Something that seems impossible but may be true",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Contradiction",
+            "Puzzle",
+            "Enigma"
+          ],
+          "antonyms": [
+            "Consistency",
+            "Certainty",
+            "Agreement"
+          ],
+          "gregmatSentence": "It seems like a paradox that the slower you do something the more you get done.",
+          "personalSentence": "",
+          "memoryTrick": "Paradox = pair of opposite thoughts",
+          "mastery": 0,
+          "group": 11
+        },
+        {
+          "word": "Parochial",
+          "meaning": "Having a limited or narrow outlook or scope",
+          "easyMeaning": "Narrow-minded and local",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Narrow",
+            "Insular",
+            "Provincial"
+          ],
+          "antonyms": [
+            "Broad-minded",
+            "Cosmopolitan",
+            "Worldly"
+          ],
+          "gregmatSentence": "When he came to the big city he was mocked for his parochial ways.",
+          "personalSentence": "",
+          "memoryTrick": "Parochial = parish-only view",
+          "mastery": 0,
+          "group": 11
+        },
+        {
+          "word": "Parsimonious",
+          "meaning": "Unwilling to spend money or use resources",
+          "easyMeaning": "Stingy",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Stingy",
+            "Miserly",
+            "Frugal"
+          ],
+          "antonyms": [
+            "Generous",
+            "Lavish",
+            "Wasteful"
+          ],
+          "gregmatSentence": "My father was very parsimonious and always made us turn off the lights when we left our room to save on electricity.",
+          "personalSentence": "",
+          "memoryTrick": "Parsimonious = purse is sealed",
+          "mastery": 0,
+          "group": 11
+        },
+        {
+          "word": "Paucity",
+          "meaning": "An insufficient quantity or number",
+          "easyMeaning": "Too little of something",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Scarcity",
+            "Dearth",
+            "Shortage"
+          ],
+          "antonyms": [
+            "Abundance",
+            "Plenty",
+            "Surplus"
+          ],
+          "gregmatSentence": "There is a paucity of qualified workers in this city.",
+          "personalSentence": "",
+          "memoryTrick": "Paucity = poor quantity",
+          "mastery": 0,
+          "group": 11
+        },
+        {
+          "word": "Pedestrian",
+          "meaning": "Lacking inspiration or excitement; dull",
+          "easyMeaning": "Ordinary and boring",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Dull",
+            "Prosaic",
+            "Unimaginative"
+          ],
+          "antonyms": [
+            "Inspired",
+            "Imaginative",
+            "Exciting"
+          ],
+          "gregmatSentence": "After playing on stage it was always difficult for him to adjust to his more pedestrian life.",
+          "personalSentence": "",
+          "memoryTrick": "Pedestrian = walking, not flying",
+          "mastery": 0,
+          "group": 11
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "totalWords": 15,
+    "totalGroups": 1,
+    "positiveWords": 1,
+    "negativeWords": 11,
+    "neutralWords": 3,
+    "mixedWords": 0
+  }
+}

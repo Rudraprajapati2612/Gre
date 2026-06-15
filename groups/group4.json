@@ -1,0 +1,377 @@
+{
+  "groups": [
+    {
+      "groupNumber": 4,
+      "words": [
+        {
+          "word": "Cursory",
+          "meaning": "Rapid, not thorough, and lacking attention to detail",
+          "easyMeaning": "Quick and careless",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Hasty",
+            "Superficial",
+            "Perfunctory"
+          ],
+          "antonyms": [
+            "Thorough",
+            "Detailed",
+            "Meticulous"
+          ],
+          "gregmatSentence": "He signed with only a cursory glance at the report.",
+          "personalSentence": "",
+          "memoryTrick": "Cursory = cursor quickly passes",
+          "mastery": 0,
+          "group": 4
+        },
+        {
+          "word": "Cynical",
+          "meaning": "Believing the worst of human nature and motives",
+          "easyMeaning": "Thinking people are usually selfish or dishonest",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Skeptical",
+            "Distrustful",
+            "Pessimistic"
+          ],
+          "antonyms": [
+            "Trusting",
+            "Idealistic",
+            "Optimistic"
+          ],
+          "gregmatSentence": "The cynical woman did not believe a word the boy told her.",
+          "personalSentence": "",
+          "memoryTrick": "Cynical = sin-ical, sees sin everywhere",
+          "mastery": 0,
+          "group": 4
+        },
+        {
+          "word": "Daunting",
+          "meaning": "Challenging, frightening, or intimidating",
+          "easyMeaning": "Scary because it seems hard",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Intimidating",
+            "Formidable",
+            "Discouraging"
+          ],
+          "antonyms": [
+            "Easy",
+            "Encouraging",
+            "Manageable"
+          ],
+          "gregmatSentence": "Painting that house all by myself is a daunting task.",
+          "personalSentence": "",
+          "memoryTrick": "Daunting = don't want to do it",
+          "mastery": 0,
+          "group": 4
+        },
+        {
+          "word": "Dearth",
+          "meaning": "A scarcity or lack of something",
+          "easyMeaning": "Not enough of something",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Scarcity",
+            "Shortage",
+            "Paucity"
+          ],
+          "antonyms": [
+            "Abundance",
+            "Plenty",
+            "Surplus"
+          ],
+          "gregmatSentence": "There is a dearth of good movies this summer.",
+          "personalSentence": "",
+          "memoryTrick": "Dearth = dearth of earth means not enough land",
+          "mastery": 0,
+          "group": 4
+        },
+        {
+          "word": "Deceptive",
+          "meaning": "Giving an impression different from the truth",
+          "easyMeaning": "Misleading or dishonest",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Misleading",
+            "Fraudulent",
+            "Specious"
+          ],
+          "antonyms": [
+            "Honest",
+            "Truthful",
+            "Transparent"
+          ],
+          "gregmatSentence": "During the battle, the general employed deceptive tactics.",
+          "personalSentence": "",
+          "memoryTrick": "Deceptive = deceive",
+          "mastery": 0,
+          "group": 4
+        },
+        {
+          "word": "Defensible",
+          "meaning": "Able to be justified by argument or protected",
+          "easyMeaning": "Able to be defended",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Justifiable",
+            "Tenable",
+            "Supportable"
+          ],
+          "antonyms": [
+            "Untenable",
+            "Indefensible",
+            "Unjustified"
+          ],
+          "gregmatSentence": "The argument you make is not defensible since there are many facts to the contrary.",
+          "personalSentence": "",
+          "memoryTrick": "Defensible = can defend it",
+          "mastery": 0,
+          "group": 4
+        },
+        {
+          "word": "Deliberate",
+          "meaning": "Done intentionally, carefully, and unhurriedly",
+          "easyMeaning": "Careful and on purpose",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Intentional",
+            "Careful",
+            "Measured"
+          ],
+          "antonyms": [
+            "Accidental",
+            "Rash",
+            "Hasty"
+          ],
+          "gregmatSentence": "He took deliberate steps to make sure the projects were completed on time.",
+          "personalSentence": "",
+          "memoryTrick": "Deliberate = deliver it carefully",
+          "mastery": 0,
+          "group": 4
+        },
+        {
+          "word": "Demeanor",
+          "meaning": "Outward behavior, conduct, or appearance",
+          "easyMeaning": "How someone acts or comes across",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Behavior",
+            "Manner",
+            "Bearing"
+          ],
+          "antonyms": [
+            "Interior",
+            "Thoughts",
+            "Motive"
+          ],
+          "gregmatSentence": "She had a cheerful demeanor and I liked her instantly.",
+          "personalSentence": "",
+          "memoryTrick": "Demeanor = the manner you display",
+          "mastery": 0,
+          "group": 4
+        },
+        {
+          "word": "Derived",
+          "meaning": "Dependent on or generated by something more basic",
+          "easyMeaning": "Coming from something else",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "Medium",
+          "synonyms": [
+            "Obtained",
+            "Generated",
+            "Originating"
+          ],
+          "antonyms": [
+            "Original",
+            "Primary",
+            "Independent"
+          ],
+          "gregmatSentence": "This fuel is derived from plants.",
+          "personalSentence": "",
+          "memoryTrick": "Derived = driven from a source",
+          "mastery": 0,
+          "group": 4
+        },
+        {
+          "word": "Detrimental",
+          "meaning": "Causing harm or injury",
+          "easyMeaning": "Harmful",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Harmful",
+            "Damaging",
+            "Injurious"
+          ],
+          "antonyms": [
+            "Beneficial",
+            "Salutary",
+            "Helpful"
+          ],
+          "gregmatSentence": "Smoking is detrimental to your health.",
+          "personalSentence": "",
+          "memoryTrick": "Detrimental = detracts from health",
+          "mastery": 0,
+          "group": 4
+        },
+        {
+          "word": "Devoid",
+          "meaning": "Lacking or completely free from something",
+          "easyMeaning": "Having none of something",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Lacking",
+            "Bereft",
+            "Without"
+          ],
+          "antonyms": [
+            "Full",
+            "Replete",
+            "Filled"
+          ],
+          "gregmatSentence": "The food was completely devoid of taste.",
+          "personalSentence": "",
+          "memoryTrick": "Devoid = void means empty",
+          "mastery": 0,
+          "group": 4
+        },
+        {
+          "word": "Diffident",
+          "meaning": "Lacking self-confidence; shy or modest",
+          "easyMeaning": "Shy and unsure of yourself",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Shy",
+            "Timid",
+            "Retiring"
+          ],
+          "antonyms": [
+            "Confident",
+            "Bold",
+            "Assertive"
+          ],
+          "gregmatSentence": "Amy is a diffident but intelligent kid.",
+          "personalSentence": "",
+          "memoryTrick": "Diffident = confidence is difficult",
+          "mastery": 0,
+          "group": 4
+        },
+        {
+          "word": "Discretion",
+          "meaning": "Freedom to decide what should be done in a situation",
+          "easyMeaning": "The power to choose wisely",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Judgment",
+            "Prudence",
+            "Choice"
+          ],
+          "antonyms": [
+            "Indiscretion",
+            "Compulsion",
+            "Carelessness"
+          ],
+          "gregmatSentence": "Medicines will be given out to students at the nurse's discretion.",
+          "personalSentence": "",
+          "memoryTrick": "Discretion = decide with care",
+          "mastery": 0,
+          "group": 4
+        },
+        {
+          "word": "Disdain",
+          "meaning": "Feeling that someone or something is unworthy of respect",
+          "easyMeaning": "Looking down on something",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Contempt",
+            "Scorn",
+            "Derision"
+          ],
+          "antonyms": [
+            "Respect",
+            "Admiration",
+            "Esteem"
+          ],
+          "gregmatSentence": "She turned her head away in disdain.",
+          "personalSentence": "",
+          "memoryTrick": "Disdain = disrespect plus pain",
+          "mastery": 0,
+          "group": 4
+        },
+        {
+          "word": "Disingenuous",
+          "meaning": "Dishonest or not telling the full truth",
+          "easyMeaning": "Pretending to be honest while hiding the truth",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Insincere",
+            "Dishonest",
+            "Deceitful"
+          ],
+          "antonyms": [
+            "Candid",
+            "Sincere",
+            "Ingenuous"
+          ],
+          "gregmatSentence": "I believe her arguments were disingenuous and she was just being selfish.",
+          "personalSentence": "",
+          "memoryTrick": "Disingenuous = not ingenuous",
+          "mastery": 0,
+          "group": 4
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "totalWords": 15,
+    "totalGroups": 1,
+    "positiveWords": 1,
+    "negativeWords": 9,
+    "neutralWords": 5,
+    "mixedWords": 0
+  }
+}

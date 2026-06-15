@@ -1,0 +1,377 @@
+{
+  "groups": [
+    {
+      "groupNumber": 12,
+      "words": [
+        {
+          "word": "Perfunctory",
+          "meaning": "Hasty and without attention to detail",
+          "easyMeaning": "Done quickly without care",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Cursory",
+            "Hasty",
+            "Superficial"
+          ],
+          "antonyms": [
+            "Thorough",
+            "Meticulous",
+            "Careful"
+          ],
+          "gregmatSentence": "Since I was extremely ill, I was shocked when the doctor gave me a perfunctory exam.",
+          "personalSentence": "",
+          "memoryTrick": "Perfunctory = perform function only",
+          "mastery": 0,
+          "group": 12
+        },
+        {
+          "word": "Peripatetic",
+          "meaning": "Traveling, especially on foot",
+          "easyMeaning": "Moving from place to place",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "Medium",
+          "synonyms": [
+            "Itinerant",
+            "Nomadic",
+            "Wandering"
+          ],
+          "antonyms": [
+            "Settled",
+            "Stationary",
+            "Fixed"
+          ],
+          "gregmatSentence": "His peripatetic lifestyle meant he rarely slept in the same place twice.",
+          "personalSentence": "",
+          "memoryTrick": "Peripatetic = pair of feet traveling",
+          "mastery": 0,
+          "group": 12
+        },
+        {
+          "word": "Pernicious",
+          "meaning": "Exceedingly harmful",
+          "easyMeaning": "Very harmful in a sneaky way",
+          "tone": "Negative",
+          "sentimentScore": -5,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Harmful",
+            "Destructive",
+            "Malignant"
+          ],
+          "antonyms": [
+            "Beneficial",
+            "Benign",
+            "Salutary"
+          ],
+          "gregmatSentence": "The pernicious spread of misinformation online has caused much unnecessary anxiety in our culture.",
+          "personalSentence": "",
+          "memoryTrick": "Pernicious = viciously harmful",
+          "mastery": 0,
+          "group": 12
+        },
+        {
+          "word": "Perpetuate",
+          "meaning": "To cause something to continue",
+          "easyMeaning": "To keep something going",
+          "tone": "Context-Dependent",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Continue",
+            "Sustain",
+            "Maintain"
+          ],
+          "antonyms": [
+            "End",
+            "Stop",
+            "Abolish"
+          ],
+          "gregmatSentence": "Schools tend to perpetuate the myth that boys are better at sports than girls.",
+          "personalSentence": "",
+          "memoryTrick": "Perpetuate = permanent pattern",
+          "mastery": 0,
+          "group": 12
+        },
+        {
+          "word": "Perspicacity",
+          "meaning": "Ability to understand things quickly and judge accurately",
+          "easyMeaning": "Sharp insight",
+          "tone": "Positive",
+          "sentimentScore": 5,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Insight",
+            "Discernment",
+            "Acumen"
+          ],
+          "antonyms": [
+            "Dullness",
+            "Obtuseness",
+            "Ignorance"
+          ],
+          "gregmatSentence": "I admire the perspicacity of his mind, especially when it comes to solving problems.",
+          "personalSentence": "",
+          "memoryTrick": "Perspicacity = perceive with capacity",
+          "mastery": 0,
+          "group": 12
+        },
+        {
+          "word": "Pervasive",
+          "meaning": "Spreading widely throughout an area or group",
+          "easyMeaning": "Everywhere throughout something",
+          "tone": "Context-Dependent",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Widespread",
+            "Prevalent",
+            "Ubiquitous"
+          ],
+          "antonyms": [
+            "Rare",
+            "Limited",
+            "Localized"
+          ],
+          "gregmatSentence": "Widespread violence and crime are pervasive features of city life.",
+          "personalSentence": "",
+          "memoryTrick": "Pervasive = pervades everywhere",
+          "mastery": 0,
+          "group": 12
+        },
+        {
+          "word": "Plausible",
+          "meaning": "Apparently reasonable, valid, or truthful",
+          "easyMeaning": "Believable and reasonable",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Believable",
+            "Credible",
+            "Reasonable"
+          ],
+          "antonyms": [
+            "Implausible",
+            "Unbelievable",
+            "Absurd"
+          ],
+          "gregmatSentence": "I'm afraid your explanation is not plausible because it does not take into account many of the known facts.",
+          "personalSentence": "",
+          "memoryTrick": "Plausible = gets applause because believable",
+          "mastery": 0,
+          "group": 12
+        },
+        {
+          "word": "Poignant",
+          "meaning": "Evoking a keen sense of sadness or regret",
+          "easyMeaning": "Deeply touching and sad",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Touching",
+            "Moving",
+            "Heartbreaking"
+          ],
+          "antonyms": [
+            "Unaffecting",
+            "Cheerful",
+            "Trivial"
+          ],
+          "gregmatSentence": "The ending of the movie was extremely poignant and made almost everybody cry.",
+          "personalSentence": "",
+          "memoryTrick": "Poignant = points at the heart",
+          "mastery": 0,
+          "group": 12
+        },
+        {
+          "word": "Polemical",
+          "meaning": "Involving dispute or controversy",
+          "easyMeaning": "Argumentative and controversial",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Controversial",
+            "Argumentative",
+            "Disputatious"
+          ],
+          "antonyms": [
+            "Conciliatory",
+            "Peaceful",
+            "Uncontroversial"
+          ],
+          "gregmatSentence": "The two men could not be on stage without becoming polemical about their different views.",
+          "personalSentence": "",
+          "memoryTrick": "Polemical = political argument",
+          "mastery": 0,
+          "group": 12
+        },
+        {
+          "word": "Ponderous",
+          "meaning": "Labored and dull, or slow and clumsy because heavy",
+          "easyMeaning": "Heavy, slow, and boring",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Heavy",
+            "Labored",
+            "Dull"
+          ],
+          "antonyms": [
+            "Light",
+            "Lively",
+            "Graceful"
+          ],
+          "gregmatSentence": "I find his lecturing style ponderous, which makes it very hard to pay attention.",
+          "personalSentence": "",
+          "memoryTrick": "Ponderous = heavy to ponder",
+          "mastery": 0,
+          "group": 12
+        },
+        {
+          "word": "Pragmatism",
+          "meaning": "A practical approach to problems and affairs",
+          "easyMeaning": "Doing what works in real life",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Practicality",
+            "Realism",
+            "Common sense"
+          ],
+          "antonyms": [
+            "Idealism",
+            "Impracticality",
+            "Theory"
+          ],
+          "gregmatSentence": "I admire his pragmatism in solving problems.",
+          "personalSentence": "",
+          "memoryTrick": "Pragmatism = practical magic",
+          "mastery": 0,
+          "group": 12
+        },
+        {
+          "word": "Precarious",
+          "meaning": "Not securely held or dangerously likely to fall or collapse",
+          "easyMeaning": "Unsafe or unstable",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Unstable",
+            "Risky",
+            "Insecure"
+          ],
+          "antonyms": [
+            "Secure",
+            "Stable",
+            "Safe"
+          ],
+          "gregmatSentence": "My financial position is rather precarious at the moment.",
+          "personalSentence": "",
+          "memoryTrick": "Precarious = scary position",
+          "mastery": 0,
+          "group": 12
+        },
+        {
+          "word": "Precipitate",
+          "meaning": "To cause an event, often bad, to happen suddenly",
+          "easyMeaning": "To trigger suddenly",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Trigger",
+            "Cause",
+            "Hasten"
+          ],
+          "antonyms": [
+            "Prevent",
+            "Delay",
+            "Forestall"
+          ],
+          "gregmatSentence": "Bringing up politics will usually precipitate an argument in their house.",
+          "personalSentence": "",
+          "memoryTrick": "Precipitate = pushes it over the edge",
+          "mastery": 0,
+          "group": 12
+        },
+        {
+          "word": "Preclude",
+          "meaning": "To prevent from happening; make impossible",
+          "easyMeaning": "To make something impossible",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Prevent",
+            "Forbid",
+            "Obviate"
+          ],
+          "antonyms": [
+            "Allow",
+            "Permit",
+            "Enable"
+          ],
+          "gregmatSentence": "Your role in this project precludes your involvement in any others.",
+          "personalSentence": "",
+          "memoryTrick": "Preclude = close before",
+          "mastery": 0,
+          "group": 12
+        },
+        {
+          "word": "Precursor",
+          "meaning": "Something that comes before and leads to another thing",
+          "easyMeaning": "A sign or thing that comes before",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Forerunner",
+            "Harbinger",
+            "Predecessor"
+          ],
+          "antonyms": [
+            "Result",
+            "Successor",
+            "Aftermath"
+          ],
+          "gregmatSentence": "The exciting beginning of the movie was just a precursor to even more excitement later on.",
+          "personalSentence": "",
+          "memoryTrick": "Precursor = runs before",
+          "mastery": 0,
+          "group": 12
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "totalWords": 15,
+    "totalGroups": 1,
+    "positiveWords": 3,
+    "negativeWords": 7,
+    "neutralWords": 3,
+    "mixedWords": 2
+  }
+}

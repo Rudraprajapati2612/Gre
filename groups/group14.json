@@ -1,0 +1,377 @@
+{
+  "groups": [
+    {
+      "groupNumber": 14,
+      "words": [
+        {
+          "word": "Redundant",
+          "meaning": "In excess or unnecessarily repetitive",
+          "easyMeaning": "Extra and not needed",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Unnecessary",
+            "Superfluous",
+            "Repetitive"
+          ],
+          "antonyms": [
+            "Essential",
+            "Necessary",
+            "Concise"
+          ],
+          "gregmatSentence": "At the risk of being redundant, I want to once again remind you to be careful.",
+          "personalSentence": "",
+          "memoryTrick": "Redundant = redo it unnecessarily",
+          "mastery": 0,
+          "group": 14
+        },
+        {
+          "word": "Reflexive",
+          "meaning": "A sudden reaction that cannot be controlled",
+          "easyMeaning": "Automatic, like a reflex",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "Medium",
+          "synonyms": [
+            "Automatic",
+            "Instinctive",
+            "Involuntary"
+          ],
+          "antonyms": [
+            "Deliberate",
+            "Planned",
+            "Voluntary"
+          ],
+          "gregmatSentence": "He had a reflexive dislike of authority.",
+          "personalSentence": "",
+          "memoryTrick": "Reflexive = reflex reaction",
+          "mastery": 0,
+          "group": 14
+        },
+        {
+          "word": "Reluctant",
+          "meaning": "Not eager to do something",
+          "easyMeaning": "Unwilling or hesitant",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Easy",
+          "greFrequency": "High",
+          "synonyms": [
+            "Unwilling",
+            "Hesitant",
+            "Disinclined"
+          ],
+          "antonyms": [
+            "Eager",
+            "Willing",
+            "Enthusiastic"
+          ],
+          "gregmatSentence": "I'm reluctant to go to that town since I had a bad experience there.",
+          "personalSentence": "",
+          "memoryTrick": "Reluctant = really lacks want",
+          "mastery": 0,
+          "group": 14
+        },
+        {
+          "word": "Replete",
+          "meaning": "Full or well supplied with something",
+          "easyMeaning": "Completely full of something",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Full",
+            "Filled",
+            "Abundant"
+          ],
+          "antonyms": [
+            "Empty",
+            "Devoid",
+            "Lacking"
+          ],
+          "gregmatSentence": "The king's chambers were replete with the finest gold and other ornamentation.",
+          "personalSentence": "",
+          "memoryTrick": "Replete = plate refilled",
+          "mastery": 0,
+          "group": 14
+        },
+        {
+          "word": "Resurgence",
+          "meaning": "A return to activity or prominence",
+          "easyMeaning": "A comeback",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Revival",
+            "Comeback",
+            "Renewal"
+          ],
+          "antonyms": [
+            "Decline",
+            "Collapse",
+            "Disappearance"
+          ],
+          "gregmatSentence": "The cause of the resurgence of the company was its new CEO.",
+          "personalSentence": "",
+          "memoryTrick": "Resurgence = surge again",
+          "mastery": 0,
+          "group": 14
+        },
+        {
+          "word": "Reticent",
+          "meaning": "Remaining silent or showing self-restraint in speech",
+          "easyMeaning": "Quiet and not wanting to talk",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Reserved",
+            "Silent",
+            "Taciturn"
+          ],
+          "antonyms": [
+            "Talkative",
+            "Voluble",
+            "Outspoken"
+          ],
+          "gregmatSentence": "I am usually reticent in groups but I enjoy talking to people one on one.",
+          "personalSentence": "",
+          "memoryTrick": "Reticent = reluctant to tell",
+          "mastery": 0,
+          "group": 14
+        },
+        {
+          "word": "Sacrosanct",
+          "meaning": "Extremely holy or treated as untouchable",
+          "easyMeaning": "So important no one can disturb it",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Holy",
+            "Inviolable",
+            "Sacred"
+          ],
+          "antonyms": [
+            "Profane",
+            "Violated",
+            "Ordinary"
+          ],
+          "gregmatSentence": "His workspace was sacrosanct and no one was allowed near his desk.",
+          "personalSentence": "",
+          "memoryTrick": "Sacrosanct = sacred sanctuary",
+          "mastery": 0,
+          "group": 14
+        },
+        {
+          "word": "Salient",
+          "meaning": "Noticeable or remarkable",
+          "easyMeaning": "Important and standing out",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Prominent",
+            "Noticeable",
+            "Striking"
+          ],
+          "antonyms": [
+            "Minor",
+            "Hidden",
+            "Inconspicuous"
+          ],
+          "gregmatSentence": "He made several salient points which contributed a lot.",
+          "personalSentence": "",
+          "memoryTrick": "Salient = sails above the rest",
+          "mastery": 0,
+          "group": 14
+        },
+        {
+          "word": "Salutary",
+          "meaning": "Beneficial to health or generally beneficial",
+          "easyMeaning": "Helpful and good for you",
+          "tone": "Positive",
+          "sentimentScore": 4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Beneficial",
+            "Wholesome",
+            "Helpful"
+          ],
+          "antonyms": [
+            "Harmful",
+            "Detrimental",
+            "Pernicious"
+          ],
+          "gregmatSentence": "Her presence as the new manager had a salutary effect on the sales branch.",
+          "personalSentence": "",
+          "memoryTrick": "Salutary = salute what helps",
+          "mastery": 0,
+          "group": 14
+        },
+        {
+          "word": "Shun",
+          "meaning": "To avoid or stay away from deliberately",
+          "easyMeaning": "To avoid on purpose",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Avoid",
+            "Eschew",
+            "Evade"
+          ],
+          "antonyms": [
+            "Embrace",
+            "Seek",
+            "Welcome"
+          ],
+          "gregmatSentence": "I shun caffeine after 4 p.m. because it always keeps me up at night.",
+          "personalSentence": "",
+          "memoryTrick": "Shun = shut out",
+          "mastery": 0,
+          "group": 14
+        },
+        {
+          "word": "Specious",
+          "meaning": "Seeming right or true but actually wrong",
+          "easyMeaning": "Looks true but is false",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "Misleading",
+            "Deceptive",
+            "Plausible"
+          ],
+          "antonyms": [
+            "Sound",
+            "Valid",
+            "Genuine"
+          ],
+          "gregmatSentence": "On closer inspection I found all his arguments to be specious.",
+          "personalSentence": "",
+          "memoryTrick": "Specious = suspiciously special-looking",
+          "mastery": 0,
+          "group": 14
+        },
+        {
+          "word": "Spontaneous",
+          "meaning": "Instinctive, unplanned, and happening in the moment",
+          "easyMeaning": "Happening without planning",
+          "tone": "Positive",
+          "sentimentScore": 3,
+          "difficulty": "Medium",
+          "greFrequency": "Medium",
+          "synonyms": [
+            "Unplanned",
+            "Instinctive",
+            "Impulsive"
+          ],
+          "antonyms": [
+            "Planned",
+            "Deliberate",
+            "Calculated"
+          ],
+          "gregmatSentence": "My dance is spontaneous whenever I hear my favorite song.",
+          "personalSentence": "",
+          "memoryTrick": "Spontaneous = springs on its own",
+          "mastery": 0,
+          "group": 14
+        },
+        {
+          "word": "Spurious",
+          "meaning": "False, artificial, or intended to deceive",
+          "easyMeaning": "Fake and not real",
+          "tone": "Negative",
+          "sentimentScore": -4,
+          "difficulty": "Hard",
+          "greFrequency": "High",
+          "synonyms": [
+            "False",
+            "Fake",
+            "Bogus"
+          ],
+          "antonyms": [
+            "Genuine",
+            "Authentic",
+            "Valid"
+          ],
+          "gregmatSentence": "He has made several spurious claims to the insurance company.",
+          "personalSentence": "",
+          "memoryTrick": "Spurious = suspiciously false",
+          "mastery": 0,
+          "group": 14
+        },
+        {
+          "word": "Subtle",
+          "meaning": "Not very noticeable or obvious",
+          "easyMeaning": "Small and hard to notice",
+          "tone": "Neutral",
+          "sentimentScore": 0,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Faint",
+            "Delicate",
+            "Nuanced"
+          ],
+          "antonyms": [
+            "Obvious",
+            "Blatant",
+            "Conspicuous"
+          ],
+          "gregmatSentence": "There was a subtle shift in her tone which made me think she was starting to like me.",
+          "personalSentence": "",
+          "memoryTrick": "Subtle = under the obvious",
+          "mastery": 0,
+          "group": 14
+        },
+        {
+          "word": "Superficial",
+          "meaning": "Existing only on the surface; not deep or meaningful",
+          "easyMeaning": "Only on the surface",
+          "tone": "Negative",
+          "sentimentScore": -3,
+          "difficulty": "Medium",
+          "greFrequency": "High",
+          "synonyms": [
+            "Shallow",
+            "Surface-level",
+            "Cursory"
+          ],
+          "antonyms": [
+            "Deep",
+            "Profound",
+            "Thorough"
+          ],
+          "gregmatSentence": "His kindness was superficial and just designed to get ahead.",
+          "personalSentence": "",
+          "memoryTrick": "Superficial = surface face",
+          "mastery": 0,
+          "group": 14
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "totalWords": 15,
+    "totalGroups": 1,
+    "positiveWords": 5,
+    "negativeWords": 5,
+    "neutralWords": 5,
+    "mixedWords": 0
+  }
+}
