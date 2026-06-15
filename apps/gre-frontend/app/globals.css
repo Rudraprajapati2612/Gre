@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .accent-glow {
+    box-shadow: 0 0 20px rgba(232, 116, 59, 0.15);
+  }
+}
