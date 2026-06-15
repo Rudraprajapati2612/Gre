@@ -443,6 +443,11 @@ export async function getDueReviewWords(): Promise<Word[]> {
   return data.words.map(normalizeWord);
 }
 
+export async function getTodayReviewWords(): Promise<Word[]> {
+  const data = await apiFetch<{ words: any[] }>('/api/review/today');
+  return data.words.map(normalizeWord);
+}
+
 export async function submitReview(
   wordId: string,
   grade: 'again' | 'hard' | 'good' | 'easy',

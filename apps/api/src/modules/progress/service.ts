@@ -9,7 +9,7 @@ export async function getSummary(userId: string, timezone: string) {
     SELECT
       COUNT(*) FILTER (WHERE status = 'mastered')::int AS mastered_count,
       COUNT(*)::int AS total_words,
-      COUNT(*) FILTER (WHERE status = 'learning')::int AS learning_count,
+      COUNT(*) FILTER (WHERE status IN ('learning', 'review') OR (status = 'new' AND last_mark IS NOT NULL))::int AS learning_count,
       COUNT(*) FILTER (WHERE status = 'review')::int AS review_count
     FROM user_word_progress
     WHERE user_id = ${userId}
@@ -18,7 +18,15 @@ export async function getSummary(userId: string, timezone: string) {
   const [dueRow] = await sql`
     SELECT COUNT(*)::int AS due_today_count
     FROM user_word_progress
-    WHERE user_id = ${userId} AND due_date <= ${today} AND status != 'new'
+    WHERE user_id = ${userId}
+      AND status != 'new'
+      AND (
+        -- spaced-repetition words due today (not learned today)
+        (due_date <= ${today} AND (marked_learning_on IS NULL OR marked_learning_on != ${today}))
+        OR
+        -- words learned today that haven't had tonight's review yet
+        (marked_learning_on = ${today} AND (last_reviewed_at IS NULL OR last_reviewed_at::date != ${today}::date))
+      )
   `
 
   const activityRows = await sql`

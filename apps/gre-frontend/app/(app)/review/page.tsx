@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
-import { getDueReviewWords, submitReview } from '@/lib/api';
+import { getDueReviewWords, getTodayReviewWords, submitReview } from '@/lib/api';
 import type { Word } from '@/lib/api';
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
@@ -18,8 +18,15 @@ export default function ReviewPage() {
   const [isFlipped, setIsFlipped] = useState(false);
 
   useEffect(() => {
-    getDueReviewWords()
-      .then(setDueWords)
+    Promise.all([getTodayReviewWords(), getDueReviewWords()])
+      .then(([todayWords, dueWords]) => {
+        const seen = new Set<string>();
+        const merged: Word[] = [];
+        for (const w of [...todayWords, ...dueWords]) {
+          if (!seen.has(w.id)) { seen.add(w.id); merged.push(w); }
+        }
+        setDueWords(merged);
+      })
       .catch(() => {})
       .finally(() => setLoading(false));
   }, []);
@@ -115,6 +122,11 @@ export default function ReviewPage() {
                   <h2 className="text-4xl md:text-5xl font-serif font-bold text-[#1F2430] mb-4">
                     {currentWord.word}
                   </h2>
+                  {currentWord.userNote && (
+                    <p className="text-xs text-[#E8743B]/70 italic mt-2">
+                      💡 You have a mnemonic — reveal to see it
+                    </p>
+                  )}
                   <p className="text-[#1F2430]/50 text-sm mt-8 animate-pulse">
                     Tap to reveal meaning
                   </p>
@@ -131,7 +143,15 @@ export default function ReviewPage() {
                     <p className="text-lg text-[#1F2430]/90 leading-relaxed">{currentWord.meaning}</p>
                   </div>
 
-                  <div className="flex-1 space-y-6 overflow-y-auto pr-2">
+                  <div className="flex-1 space-y-4 overflow-y-auto pr-2">
+                    {currentWord.userNote && (
+                      <div className="bg-[#FAF7F2] rounded-xl p-4 border border-[#E8743B]/20">
+                        <h4 className="text-xs font-bold tracking-wider uppercase text-[#E8743B]/70 mb-2">
+                          My Mnemonic
+                        </h4>
+                        <p className="text-sm text-[#1F2430]/90 leading-relaxed">{currentWord.userNote}</p>
+                      </div>
+                    )}
                     {currentWord.examples.length > 0 && (
                       <div>
                         <h4 className="text-xs font-bold tracking-wider uppercase text-[#1F2430]/40 mb-2">
@@ -140,14 +160,6 @@ export default function ReviewPage() {
                         <p className="text-[#1F2430]/80 italic text-sm border-l-2 border-[#E8743B]/30 pl-3">
                           "{currentWord.examples[0]}"
                         </p>
-                      </div>
-                    )}
-                    {currentWord.userNote && (
-                      <div className="bg-[#FAF7F2] rounded-xl p-4 border border-[#D6CFC4]/50 mt-4">
-                        <h4 className="text-xs font-bold tracking-wider uppercase text-[#1F2430]/40 mb-2">
-                          My Note
-                        </h4>
-                        <p className="text-sm text-[#1F2430]/80">{currentWord.userNote}</p>
                       </div>
                     )}
                   </div>

@@ -112,7 +112,9 @@ export async function markWord(
 
   let progress: any
   if (!existing) {
-    // Brand-new word — INSERT, no last_reviewed_at
+    // Brand-new word — INSERT, no last_reviewed_at.
+    // ON CONFLICT handles the race where saveMountainNote inserted a note-only
+    // row between our SELECT and this INSERT.
     const [row] = await sql`
       INSERT INTO user_word_progress
         (user_id, word_id, status, ease, interval_days, repetitions,
@@ -123,6 +125,16 @@ export async function markWord(
         ${updated.due_date}, ${updated.times_seen}, ${updated.times_wrong},
         ${mark}, ${today}
       )
+      ON CONFLICT (user_id, word_id) DO UPDATE SET
+        status             = EXCLUDED.status,
+        ease               = EXCLUDED.ease,
+        interval_days      = EXCLUDED.interval_days,
+        repetitions        = EXCLUDED.repetitions,
+        due_date           = EXCLUDED.due_date,
+        times_seen         = EXCLUDED.times_seen,
+        times_wrong        = EXCLUDED.times_wrong,
+        last_mark          = EXCLUDED.last_mark,
+        marked_learning_on = EXCLUDED.marked_learning_on
       RETURNING *
     `
     progress = row

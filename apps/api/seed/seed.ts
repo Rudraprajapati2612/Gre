@@ -5,7 +5,9 @@ import { join } from 'path'
 const DATABASE_URL = process.env.DATABASE_URL
 if (!DATABASE_URL) throw new Error('DATABASE_URL is required')
 
-const sql = postgres(DATABASE_URL)
+const sql = postgres(DATABASE_URL, {
+  ssl: DATABASE_URL.includes('neon.tech') ? 'require' : false,
+})
 
 function mapTone(tone: string): 'formal' | 'neutral' | 'negative' | 'positive' | 'informal' {
   const t = (tone ?? '').toLowerCase()
