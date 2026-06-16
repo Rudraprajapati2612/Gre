@@ -46,6 +46,7 @@ const app = new Elysia()
       .use(mountainRoutes)
   )
   .get('/', () => ({ ok: true, service: 'GRE Verbal Trainer API' }))
+  .get('/api/health', () => ({ ok: true, ts: Date.now() }))
   .listen(PORT)
 
 console.log(`GRE backend running on http://localhost:${PORT}`)
