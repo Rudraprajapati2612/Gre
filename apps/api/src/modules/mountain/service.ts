@@ -34,7 +34,8 @@ export async function getGroup(
     words = await sql`
       SELECT w.*, uwp.status AS user_status, uwp.ease, uwp.interval_days,
              uwp.repetitions, uwp.due_date, uwp.times_seen, uwp.times_wrong,
-             uwp.marked_learning_on, uwp.last_reviewed_at, uwp.last_mark, uwp.user_note, w.antonyms
+             uwp.marked_learning_on, uwp.last_reviewed_at, uwp.last_mark,
+             uwp.user_note, uwp.user_meaning, w.antonyms
       FROM words w
       JOIN user_word_progress uwp ON uwp.word_id = w.id AND uwp.user_id = ${userId}
       WHERE w.group_number = ${groupNum} AND uwp.last_mark = 'forgot'
@@ -45,7 +46,7 @@ export async function getGroup(
       SELECT w.*, COALESCE(uwp.status,'new') AS user_status,
              uwp.ease, uwp.interval_days, uwp.repetitions, uwp.due_date,
              uwp.times_seen, uwp.times_wrong, uwp.marked_learning_on,
-             uwp.last_reviewed_at, uwp.last_mark, uwp.user_note
+             uwp.last_reviewed_at, uwp.last_mark, uwp.user_note, uwp.user_meaning
       FROM words w
       LEFT JOIN user_word_progress uwp ON uwp.word_id = w.id AND uwp.user_id = ${userId}
       WHERE w.group_number = ${groupNum}
@@ -57,7 +58,7 @@ export async function getGroup(
       SELECT w.*, COALESCE(uwp.status,'new') AS user_status,
              uwp.ease, uwp.interval_days, uwp.repetitions, uwp.due_date,
              uwp.times_seen, uwp.times_wrong, uwp.marked_learning_on,
-             uwp.last_reviewed_at, uwp.last_mark, uwp.user_note
+             uwp.last_reviewed_at, uwp.last_mark, uwp.user_note, uwp.user_meaning
       FROM words w
       LEFT JOIN user_word_progress uwp ON uwp.word_id = w.id AND uwp.user_id = ${userId}
       WHERE w.group_number = ${groupNum}
@@ -226,6 +227,16 @@ export async function updateNote(userId: string, wordId: string, note: string) {
     INSERT INTO user_word_progress (user_id, word_id, user_note, status)
     VALUES (${userId}, ${wordId}, ${note}, 'new')
     ON CONFLICT (user_id, word_id) DO UPDATE SET user_note = EXCLUDED.user_note
+    RETURNING *
+  `
+  return row
+}
+
+export async function updateMeaning(userId: string, wordId: string, meaning: string) {
+  const [row] = await sql`
+    INSERT INTO user_word_progress (user_id, word_id, user_meaning, status)
+    VALUES (${userId}, ${wordId}, ${meaning}, 'new')
+    ON CONFLICT (user_id, word_id) DO UPDATE SET user_meaning = EXCLUDED.user_meaning
     RETURNING *
   `
   return row

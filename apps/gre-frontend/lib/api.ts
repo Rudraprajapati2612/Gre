@@ -125,6 +125,7 @@ export interface Word {
   timesWrong: number;
   status: WordStatus;
   userNote?: string;
+  userMeaning?: string;
   lastMark?: 'knew' | 'forgot';
 }
 
@@ -223,6 +224,7 @@ function normalizeWord(w: any): Word {
     timesSeen: w.times_seen ?? 0,
     timesWrong: w.times_wrong ?? 0,
     userNote: w.user_note ?? undefined,
+    userMeaning: w.user_meaning ?? undefined,
     lastMark: w.last_mark ?? undefined,
   };
 }
@@ -425,6 +427,13 @@ export async function saveMountainNote(wordId: string, note: string): Promise<vo
   await apiFetch('/api/mountain/note', {
     method: 'PATCH',
     body: JSON.stringify({ wordId, note }),
+  });
+}
+
+export async function saveMountainMeaning(wordId: string, meaning: string): Promise<void> {
+  await apiFetch('/api/mountain/meaning', {
+    method: 'PATCH',
+    body: JSON.stringify({ wordId, meaning }),
   });
 }
 

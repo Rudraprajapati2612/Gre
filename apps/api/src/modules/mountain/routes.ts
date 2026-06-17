@@ -90,6 +90,21 @@ export const mountainRoutes = new Elysia({ prefix: '/mountain' })
     },
   )
 
+  // PATCH /api/mountain/meaning — save user's own definition for a word
+  .patch(
+    '/meaning',
+    async ({ userId, body }) => {
+      const progress = await svc.updateMeaning(userId, body.wordId, body.meaning)
+      return { progress }
+    },
+    {
+      body: t.Object({
+        wordId:  t.String(),
+        meaning: t.String(),
+      }),
+    },
+  )
+
   // POST /api/mountain/groups/:n/reset — clear last_mark for re-climb
   .post(
     '/groups/:n/reset',
